@@ -1,0 +1,932 @@
+{
+  "communities": {
+    "0": [
+      "replicatedstorage_modules_magicconfig",
+      "replicatedstorage_modules_magicconfig_magicconfig_getspellattributename",
+      "serverscriptservice_friendshipserver_server",
+      "serverscriptservice_friendshipserver_server_cleanname",
+      "serverscriptservice_friendshipserver_server_cleanrequests",
+      "serverscriptservice_friendshipserver_server_handlechat",
+      "serverscriptservice_honorcommandhandler_server",
+      "serverscriptservice_honorcommandhandler_server_handlehonorcommand",
+      "serverscriptservice_lorenameserver_server",
+      "serverscriptservice_magicservice_server",
+      "serverscriptservice_magicservice_server_consumeone",
+      "serverscriptservice_magicservice_server_hascompletedlevel",
+      "serverscriptservice_magicservice_server_onplayeradded",
+      "serverscriptservice_magicservice_server_updatedailyattempts",
+      "serverscriptservice_servermodules_ansiedadmodule",
+      "serverscriptservice_servermodules_ansiedadmodule_ansiedadmodule_trigger",
+      "serverscriptservice_servermodules_commandregistry",
+      "serverscriptservice_servermodules_commandregistry_commandregistry_execute",
+      "serverscriptservice_servermodules_commandregistry_commandregistry_register",
+      "serverscriptservice_servermodules_fearmodule",
+      "serverscriptservice_servermodules_fearmodule_fearmodule_trigger",
+      "serverscriptservice_servermodules_heartbeatmodule",
+      "serverscriptservice_servermodules_heartbeatmodule_heartbeatmodule_trigger",
+      "serverscriptservice_servermodules_loremodule",
+      "serverscriptservice_servermodules_loremodule_loremodule_addmoney",
+      "serverscriptservice_servermodules_loremodule_loremodule_addtp",
+      "serverscriptservice_servermodules_loremodule_loremodule_applynametag",
+      "serverscriptservice_servermodules_loremodule_loremodule_savealldata",
+      "serverscriptservice_servermodules_loremodule_loremodule_savetalents",
+      "serverscriptservice_servermodules_loremodule_loremodule_setlore",
+      "serverscriptservice_servermodules_loremodule_loremodule_setup",
+      "serverscriptservice_servermodules_loremodule_loremodule_startinventorytracking",
+      "serverscriptservice_servermodules_loremodule_loremodule_toggletag",
+      "serverscriptservice_servermodules_loremodule_loremodule_updateinventorycache",
+      "serverscriptservice_servermodules_presionmodule",
+      "serverscriptservice_servermodules_presionmodule_presionmodule_trigger",
+      "serverscriptservice_servermodules_prowlermodule",
+      "serverscriptservice_servermodules_prowlermodule_prowlermodule_trigger",
+      "serverscriptservice_servermodules_rpcommandsmodule",
+      "serverscriptservice_servermodules_rpcommandsmodule_rpcommandsmodule_init",
+      "serverscriptservice_servermodules_terremotomodule",
+      "serverscriptservice_servermodules_terremotomodule_terremotomodule_trigger",
+      "serverscriptservice_servermodules_weathermodule",
+      "serverscriptservice_servermodules_weathermodule_weathermodule_setweather"
+    ],
+    "1": [
+      "replicatedstorage_modules_magicconfig_magicconfig_getadjustedcolor",
+      "serverscriptservice_magicmanager_server",
+      "serverscriptservice_magicmanager_server_cancast",
+      "serverscriptservice_magicmanager_server_freezecharacter",
+      "serverscriptservice_magicmanager_server_handleimpact",
+      "serverscriptservice_magicmanager_server_playcasteffects",
+      "serverscriptservice_magicmanager_server_scalenumbersequence",
+      "serverscriptservice_magicmanager_server_spawnearthfissure",
+      "serverscriptservice_magicmanager_server_spawnprojectile",
+      "serverscriptservice_servermodules_advancedinjurymodule_advancedinjurymodule_rollforinjury",
+      "serverscriptservice_servermodules_combatmodule",
+      "serverscriptservice_servermodules_combatmodule_combatmodule_applyhitslow",
+      "serverscriptservice_servermodules_combatmodule_combatmodule_applyknockback",
+      "serverscriptservice_servermodules_combatmodule_combatmodule_applyparrystun",
+      "serverscriptservice_servermodules_combatmodule_combatmodule_applyragdoll",
+      "serverscriptservice_servermodules_combatmodule_combatmodule_applystun",
+      "serverscriptservice_servermodules_combatmodule_combatmodule_breakguard",
+      "serverscriptservice_servermodules_combatmodule_combatmodule_createhitbox",
+      "serverscriptservice_servermodules_combatmodule_combatmodule_createstrongrighthitbox",
+      "serverscriptservice_servermodules_combatmodule_combatmodule_emitparryeffect",
+      "serverscriptservice_servermodules_combatmodule_combatmodule_findhumanoid",
+      "serverscriptservice_servermodules_combatmodule_combatmodule_playcharactersound",
+      "serverscriptservice_servermodules_combatmodule_combatmodule_playgoblinblockvfx",
+      "serverscriptservice_servermodules_combatmodule_combatmodule_playhitanimation",
+      "serverscriptservice_servermodules_combatmodule_combatmodule_playhiteffect",
+      "serverscriptservice_servermodules_combatmodule_combatmodule_setupcharacterblockmonitor",
+      "serverscriptservice_servermodules_combatmodule_combatmodule_taghumanoid",
+      "serverscriptservice_servermodules_combatmodule_combatmodule_throwshield",
+      "serverscriptservice_servermodules_combatmodule_settoolvisible",
+      "serverscriptservice_servermodules_condicionesmodule_condicionesmodule_hascondicion",
+      "serverscriptservice_servermodules_enemymodule",
+      "serverscriptservice_servermodules_enemymodule_enemymodule_setup",
+      "serverscriptservice_servermodules_loremodule_loremodule_addmasteryxp"
+    ],
+    "2": [
+      "replicatedstorage_modules_advancedinjuries_injuryconfig",
+      "serverscriptservice_advancedinjuryserver_server",
+      "serverscriptservice_advancedinjuryserver_server_setupplayer",
+      "serverscriptservice_lifemanager_server",
+      "serverscriptservice_lifemanager_server_applypkinventoryloss",
+      "serverscriptservice_lifemanager_server_gethealthstatustext",
+      "serverscriptservice_lifemanager_server_onplayerdied",
+      "serverscriptservice_lifemanager_server_trackplayer",
+      "serverscriptservice_lifemanager_server_wipeallstores",
+      "serverscriptservice_servermodules_advancedinjurymodule",
+      "serverscriptservice_servermodules_advancedinjurymodule_advancedinjurymodule_addinjury",
+      "serverscriptservice_servermodules_advancedinjurymodule_advancedinjurymodule_applytreatment",
+      "serverscriptservice_servermodules_advancedinjurymodule_advancedinjurymodule_clearplayer",
+      "serverscriptservice_servermodules_advancedinjurymodule_advancedinjurymodule_initplayer",
+      "serverscriptservice_servermodules_advancedinjurymodule_advancedinjurymodule_replicate",
+      "serverscriptservice_servermodules_advancedinjurymodule_advancedinjurymodule_updatetick",
+      "serverscriptservice_servermodules_advancedinjurymodule_consumemedicalitem",
+      "serverscriptservice_servermodules_condicionesmodule",
+      "serverscriptservice_servermodules_condicionesmodule_condicionesmodule_apply",
+      "serverscriptservice_servermodules_condicionesmodule_condicionesmodule_clearplayer",
+      "serverscriptservice_servermodules_condicionesmodule_condicionesmodule_haslostleg",
+      "serverscriptservice_servermodules_condicionesmodule_condicionesmodule_initplayer",
+      "serverscriptservice_servermodules_condicionesmodule_condicionesmodule_remove",
+      "serverscriptservice_servermodules_condicionesmodule_condicionesmodule_updatetick",
+      "serverscriptservice_servermodules_condicionesmodule_getorcreate",
+      "serverscriptservice_servermodules_condicionesmodule_playoncharacter"
+    ],
+    "3": [
+      "workspace_riganimate_client_lua_init_client_animatetool",
+      "workspace_riganimate_client_lua_init_client_configureanimationset",
+      "workspace_riganimate_client_lua_init_client_getrigscale",
+      "workspace_riganimate_client_lua_init_client_gettool",
+      "workspace_riganimate_client_lua_init_client_gettoolanim",
+      "workspace_riganimate_client_lua_init_client_keyframereachedfunc",
+      "workspace_riganimate_client_lua_init_client_luau_workspace_riganimate_client_lua_init_client",
+      "workspace_riganimate_client_lua_init_client_move",
+      "workspace_riganimate_client_lua_init_client_movesit",
+      "workspace_riganimate_client_lua_init_client_onclimbing",
+      "workspace_riganimate_client_lua_init_client_ondied",
+      "workspace_riganimate_client_lua_init_client_onfallingdown",
+      "workspace_riganimate_client_lua_init_client_onfreefall",
+      "workspace_riganimate_client_lua_init_client_ongettingup",
+      "workspace_riganimate_client_lua_init_client_onjumping",
+      "workspace_riganimate_client_lua_init_client_onplatformstanding",
+      "workspace_riganimate_client_lua_init_client_onrunning",
+      "workspace_riganimate_client_lua_init_client_onseated",
+      "workspace_riganimate_client_lua_init_client_onswimming",
+      "workspace_riganimate_client_lua_init_client_playanimation",
+      "workspace_riganimate_client_lua_init_client_playtoolanimation",
+      "workspace_riganimate_client_lua_init_client_scriptchildmodified",
+      "workspace_riganimate_client_lua_init_client_setanimationspeed",
+      "workspace_riganimate_client_lua_init_client_stopallanimations",
+      "workspace_riganimate_client_lua_init_client_stoptoolanimations",
+      "workspace_riganimate_client_lua_init_client_toolkeyframereachedfunc"
+    ],
+    "4": [
+      "serverscriptservice_harvestmanager_server",
+      "serverscriptservice_harvestmanager_server_initializeharvestable",
+      "serverscriptservice_servermodules_gathermodule",
+      "serverscriptservice_servermodules_gathermodule_findresourceroot",
+      "serverscriptservice_servermodules_gathermodule_gathermodule_getrequiredtool",
+      "serverscriptservice_servermodules_gathermodule_gathermodule_onhit",
+      "serverscriptservice_servermodules_gathermodule_gathermodule_playhiteffect",
+      "serverscriptservice_servermodules_gathermodule_getresourcehealth",
+      "serverscriptservice_servermodules_gathermodule_getresourcepos",
+      "serverscriptservice_servermodules_gathermodule_schedulerespawn",
+      "serverscriptservice_servermodules_gathermodule_spawnloot",
+      "serverscriptservice_servermodules_harvestmodule",
+      "serverscriptservice_servermodules_harvestmodule_harvestmodule_attachprompttotrigo",
+      "serverscriptservice_servermodules_harvestmodule_harvestmodule_getwheattemplate",
+      "serverscriptservice_servermodules_harvestmodule_harvestmodule_giveitem",
+      "serverscriptservice_servermodules_harvestmodule_harvestmodule_givewheat"
+    ],
+    "5": [
+      "serverstorage_puños_clientcombat_client",
+      "serverstorage_puños_clientcombat_client_attack",
+      "serverstorage_puños_clientcombat_client_checkhitbox",
+      "serverstorage_puños_clientcombat_client_docamerashake",
+      "serverstorage_puños_clientcombat_client_heavy",
+      "serverstorage_puños_clientcombat_client_loadanimations",
+      "serverstorage_puños_clientcombat_client_playcombatsound",
+      "serverstorage_puños_clientcombat_client_playhiteffect",
+      "serverstorage_puños_clientcombat_client_setnojump",
+      "serverstorage_puños_clientcombat_client_startblockeffect",
+      "serverstorage_puños_clientcombat_client_stopblockeffect",
+      "serverstorage_puños_clientcombat_client_toggleblock"
+    ],
+    "6": [
+      "starterpack_puños_clientcombat_client",
+      "starterpack_puños_clientcombat_client_attack",
+      "starterpack_puños_clientcombat_client_checkhitbox",
+      "starterpack_puños_clientcombat_client_docamerashake",
+      "starterpack_puños_clientcombat_client_heavy",
+      "starterpack_puños_clientcombat_client_loadanimations",
+      "starterpack_puños_clientcombat_client_playcombatsound",
+      "starterpack_puños_clientcombat_client_playhiteffect",
+      "starterpack_puños_clientcombat_client_setnojump",
+      "starterpack_puños_clientcombat_client_startblockeffect",
+      "starterpack_puños_clientcombat_client_stopblockeffect",
+      "starterpack_puños_clientcombat_client_toggleblock"
+    ],
+    "7": [
+      "replicatedstorage_modules_inventoryconfig",
+      "replicatedstorage_modules_inventoryconfig_inventoryconfig_getcategory",
+      "replicatedstorage_modules_inventoryconfig_inventoryconfig_getdescription",
+      "replicatedstorage_modules_inventoryconfig_inventoryconfig_getmaxstack",
+      "replicatedstorage_modules_inventoryconfig_inventoryconfig_isblacklisted",
+      "replicatedstorage_modules_inventoryconfig_inventoryconfig_isstackable",
+      "serverscriptservice_inventoryconsolidatorloop_server",
+      "serverscriptservice_inventoryconsolidatorloop_server_consolidatecontainer",
+      "serverscriptservice_inventoryconsolidatorloop_server_onplayeradded",
+      "serverscriptservice_inventoryconsolidatorloop_server_watchcontainer"
+    ],
+    "8": [
+      "serverscriptservice_mahkredai_server",
+      "serverscriptservice_mahkredai_server_ondescendantadded",
+      "serverscriptservice_mahkredai_server_setupmahkred",
+      "serverscriptservice_servermodules_carrymodule",
+      "serverscriptservice_servermodules_carrymodule_carrymodule_carry",
+      "serverscriptservice_servermodules_carrymodule_carrymodule_drop",
+      "serverscriptservice_servermodules_ragdollmodule",
+      "serverscriptservice_servermodules_ragdollmodule_createcolliderpart",
+      "serverscriptservice_servermodules_ragdollmodule_ragdollmodule_setragdoll",
+      "serverscriptservice_servermodules_ragdollmodule_ragdollmodule_setupcharacter"
+    ],
+    "9": [
+      "serverstorage_daga_clientcombat_client",
+      "serverstorage_daga_clientcombat_client_attack",
+      "serverstorage_daga_clientcombat_client_cleanup",
+      "serverstorage_daga_clientcombat_client_docamerashake",
+      "serverstorage_daga_clientcombat_client_heavy",
+      "serverstorage_daga_clientcombat_client_loadanimations",
+      "serverstorage_daga_clientcombat_client_playcombatsound",
+      "serverstorage_daga_clientcombat_client_startblockeffect",
+      "serverstorage_daga_clientcombat_client_stopblockeffect",
+      "serverstorage_daga_clientcombat_client_toggleblock"
+    ],
+    "10": [
+      "serverstorage_escudo_clientcombat_client",
+      "serverstorage_escudo_clientcombat_client_attack",
+      "serverstorage_escudo_clientcombat_client_cleanup",
+      "serverstorage_escudo_clientcombat_client_docamerashake",
+      "serverstorage_escudo_clientcombat_client_heavy",
+      "serverstorage_escudo_clientcombat_client_loadanimations",
+      "serverstorage_escudo_clientcombat_client_playcombatsound",
+      "serverstorage_escudo_clientcombat_client_startblockeffect",
+      "serverstorage_escudo_clientcombat_client_stopblockeffect",
+      "serverstorage_escudo_clientcombat_client_toggleblock"
+    ],
+    "11": [
+      "serverstorage_espada_clientcombat_client",
+      "serverstorage_espada_clientcombat_client_attack",
+      "serverstorage_espada_clientcombat_client_cleanup",
+      "serverstorage_espada_clientcombat_client_docamerashake",
+      "serverstorage_espada_clientcombat_client_heavy",
+      "serverstorage_espada_clientcombat_client_loadanimations",
+      "serverstorage_espada_clientcombat_client_playcombatsound",
+      "serverstorage_espada_clientcombat_client_startblockeffect",
+      "serverstorage_espada_clientcombat_client_stopblockeffect",
+      "serverstorage_espada_clientcombat_client_toggleblock"
+    ],
+    "12": [
+      "starterpack_daga_clientcombat_client",
+      "starterpack_daga_clientcombat_client_attack",
+      "starterpack_daga_clientcombat_client_cleanup",
+      "starterpack_daga_clientcombat_client_docamerashake",
+      "starterpack_daga_clientcombat_client_heavy",
+      "starterpack_daga_clientcombat_client_loadanimations",
+      "starterpack_daga_clientcombat_client_playcombatsound",
+      "starterpack_daga_clientcombat_client_startblockeffect",
+      "starterpack_daga_clientcombat_client_stopblockeffect",
+      "starterpack_daga_clientcombat_client_toggleblock"
+    ],
+    "13": [
+      "starterpack_escudo_clientcombat_client",
+      "starterpack_escudo_clientcombat_client_attack",
+      "starterpack_escudo_clientcombat_client_cleanup",
+      "starterpack_escudo_clientcombat_client_docamerashake",
+      "starterpack_escudo_clientcombat_client_heavy",
+      "starterpack_escudo_clientcombat_client_loadanimations",
+      "starterpack_escudo_clientcombat_client_playcombatsound",
+      "starterpack_escudo_clientcombat_client_startblockeffect",
+      "starterpack_escudo_clientcombat_client_stopblockeffect",
+      "starterpack_escudo_clientcombat_client_toggleblock"
+    ],
+    "14": [
+      "starterpack_espada_clientcombat_client",
+      "starterpack_espada_clientcombat_client_attack",
+      "starterpack_espada_clientcombat_client_cleanup",
+      "starterpack_espada_clientcombat_client_docamerashake",
+      "starterpack_espada_clientcombat_client_heavy",
+      "starterpack_espada_clientcombat_client_loadanimations",
+      "starterpack_espada_clientcombat_client_playcombatsound",
+      "starterpack_espada_clientcombat_client_startblockeffect",
+      "starterpack_espada_clientcombat_client_stopblockeffect",
+      "starterpack_espada_clientcombat_client_toggleblock"
+    ],
+    "15": [
+      "replicatedstorage_modules_movementmodule",
+      "replicatedstorage_modules_movementmodule_movementmodule_dash",
+      "replicatedstorage_modules_movementmodule_movementmodule_init",
+      "replicatedstorage_modules_movementmodule_movementmodule_startslide",
+      "replicatedstorage_modules_movementmodule_movementmodule_togglecrouch",
+      "replicatedstorage_modules_movementmodule_movementmodule_togglesprint",
+      "replicatedstorage_modules_movementmodule_movementmodule_update",
+      "replicatedstorage_modules_movementmodule_updatemaxstamina"
+    ],
+    "16": [
+      "serverscriptservice_servermodules_permadeathmodule",
+      "serverscriptservice_servermodules_permadeathmodule_permadeathmodule_getfullname",
+      "serverscriptservice_servermodules_permadeathmodule_permadeathmodule_onplayerdied",
+      "serverscriptservice_servermodules_permadeathmodule_permadeathmodule_postembed",
+      "serverscriptservice_servermodules_permadeathmodule_permadeathmodule_sendwebhook",
+      "serverscriptservice_servermodules_permadeathmodule_permadeathmodule_setstate",
+      "serverscriptservice_servermodules_permadeathmodule_permadeathmodule_trackplayer",
+      "serverscriptservice_servermodules_permadeathmodule_postwebhook"
+    ],
+    "17": [
+      "replicatedstorage_modules_nocliprock",
+      "replicatedstorage_modules_nocliprock_rockmodule_crater",
+      "replicatedstorage_modules_nocliprock_rockmodule_flyrock",
+      "replicatedstorage_modules_nocliprock_rockmodule_normalrock",
+      "replicatedstorage_modules_nocliprock_rockmodule_rock2",
+      "replicatedstorage_modules_nocliprock_rockmodule_siderock",
+      "replicatedstorage_modules_nocliprock_rockmodule_siderock2"
+    ],
+    "18": [
+      "serverscriptservice_chestmanager_server",
+      "serverscriptservice_chestmanager_server_closechestforplayer",
+      "serverscriptservice_chestmanager_server_countviewers",
+      "serverscriptservice_chestmanager_server_getprompt",
+      "serverscriptservice_chestmanager_server_playsound",
+      "serverscriptservice_chestmanager_server_scanforchests",
+      "serverscriptservice_chestmanager_server_setupchest"
+    ],
+    "19": [
+      "serverscriptservice_relicmanager_server",
+      "serverscriptservice_relicmanager_server_equiprelic",
+      "serverscriptservice_relicmanager_server_getequippedrelicsfolder",
+      "serverscriptservice_relicmanager_server_setupplayer",
+      "serverscriptservice_relicmanager_server_unequipslot",
+      "serverscriptservice_relicmanager_server_updaterelicbuffs"
+    ],
+    "20": [
+      "serverscriptservice_servermodules_survivalmodule",
+      "serverscriptservice_servermodules_survivalmodule_consumeone",
+      "serverscriptservice_servermodules_survivalmodule_survivalmodule_eatfood",
+      "serverscriptservice_servermodules_survivalmodule_survivalmodule_save",
+      "serverscriptservice_servermodules_survivalmodule_survivalmodule_setup",
+      "serverscriptservice_servermodules_survivalmodule_survivalmodule_useitem"
+    ],
+    "21": [
+      "serverscriptservice_vfxmanager_server",
+      "serverscriptservice_vfxmanager_server_applyburneffect",
+      "serverscriptservice_vfxmanager_server_gethumanoidsinradius",
+      "serverscriptservice_vfxmanager_server_handleexplosion",
+      "serverscriptservice_vfxmanager_server_handlefuego",
+      "serverscriptservice_vfxmanager_server_playsoundatposition"
+    ],
+    "22": [
+      "serverstorage_lt_efectos_localscript_client",
+      "serverstorage_lt_efectos_localscript_client_clearindicator",
+      "serverstorage_lt_efectos_localscript_client_createindicator",
+      "serverstorage_lt_efectos_localscript_client_nextitem",
+      "serverstorage_lt_efectos_localscript_client_previtem",
+      "serverstorage_lt_efectos_localscript_client_updateui"
+    ],
+    "23": [
+      "serverstorage_lt_fabrics_localscript_client",
+      "serverstorage_lt_fabrics_localscript_client_clearghost",
+      "serverstorage_lt_fabrics_localscript_client_createghost",
+      "serverstorage_lt_fabrics_localscript_client_nextitem",
+      "serverstorage_lt_fabrics_localscript_client_previtem",
+      "serverstorage_lt_fabrics_localscript_client_updateui"
+    ],
+    "24": [
+      "starterpack_lt_efectos_localscript_client",
+      "starterpack_lt_efectos_localscript_client_clearindicator",
+      "starterpack_lt_efectos_localscript_client_createindicator",
+      "starterpack_lt_efectos_localscript_client_nextitem",
+      "starterpack_lt_efectos_localscript_client_previtem",
+      "starterpack_lt_efectos_localscript_client_updateui"
+    ],
+    "25": [
+      "starterpack_lt_fabrics_localscript_client",
+      "starterpack_lt_fabrics_localscript_client_clearghost",
+      "starterpack_lt_fabrics_localscript_client_createghost",
+      "starterpack_lt_fabrics_localscript_client_nextitem",
+      "starterpack_lt_fabrics_localscript_client_previtem",
+      "starterpack_lt_fabrics_localscript_client_updateui"
+    ],
+    "26": [
+      "replicatedstorage_modules_uimanager",
+      "replicatedstorage_modules_uimanager_uimanager_init",
+      "replicatedstorage_modules_uimanager_uimanager_setbarvalue",
+      "replicatedstorage_modules_uimanager_uimanager_startcooldown",
+      "replicatedstorage_modules_uimanager_uimanager_update"
+    ],
+    "27": [
+      "serverscriptservice_dungeonmanager_server",
+      "serverscriptservice_dungeonmanager_server_fadeanddestroy",
+      "serverscriptservice_dungeonmanager_server_isallowed",
+      "serverscriptservice_dungeonmanager_server_populateloot",
+      "serverscriptservice_dungeonmanager_server_spawngoblinsaround"
+    ],
+    "28": [
+      "serverscriptservice_servermodules_armormodule",
+      "serverscriptservice_servermodules_armormodule_armormodule_equip",
+      "serverscriptservice_servermodules_armormodule_armormodule_toggle",
+      "serverscriptservice_servermodules_armormodule_armormodule_unequip",
+      "serverscriptservice_servermodules_armormodule_armormodule_updatestats"
+    ],
+    "29": [
+      "serverscriptservice_servermodules_bosshealthbarmodule",
+      "serverscriptservice_servermodules_bosshealthbarmodule_bosshealthbarmodule_broadcasthide",
+      "serverscriptservice_servermodules_bosshealthbarmodule_bosshealthbarmodule_broadcastupdate",
+      "serverscriptservice_servermodules_bosshealthbarmodule_bosshealthbarmodule_disconnectconns",
+      "serverscriptservice_servermodules_bosshealthbarmodule_bosshealthbarmodule_tracktarget"
+    ],
+    "30": [
+      "replicatedstorage_modules_recipesconfig",
+      "serverscriptservice_craftingcookingserver_server",
+      "serverscriptservice_craftingcookingserver_server_giveitem",
+      "serverscriptservice_craftingcookingserver_server_removeingredients"
+    ],
+    "31": [
+      "replicatedstorage_modules_utility",
+      "replicatedstorage_modules_utility_utility_emit",
+      "replicatedstorage_modules_utility_utility_knockback",
+      "replicatedstorage_modules_utility_utility_soundeffect"
+    ],
+    "32": [
+      "serverscriptservice_talentcommandserver_server",
+      "serverscriptservice_talentcommandserver_server_givetalents",
+      "serverscriptservice_talentcommandserver_server_isadmin",
+      "serverscriptservice_talentcommandserver_server_queuetalentdeck"
+    ],
+    "33": [
+      "serverscriptservice_titlemanager_server",
+      "serverscriptservice_titlemanager_server_equiptitle",
+      "serverscriptservice_titlemanager_server_getplayerdata",
+      "serverscriptservice_titlemanager_server_onplayeradded"
+    ],
+    "34": [
+      "serverstorage_caña_fishingclient_client",
+      "serverstorage_caña_fishingclient_client_sinkinput",
+      "serverstorage_caña_fishingclient_client_startminigame",
+      "serverstorage_caña_fishingclient_client_stopminigame"
+    ],
+    "35": [
+      "startergui_notificationguiclient_client",
+      "startergui_notificationguiclient_client_clearnotifications",
+      "startergui_notificationguiclient_client_createnotification",
+      "startergui_notificationguiclient_client_setupcharacter"
+    ],
+    "36": [
+      "starterpack_caña_fishingclient_client",
+      "starterpack_caña_fishingclient_client_sinkinput",
+      "starterpack_caña_fishingclient_client_startminigame",
+      "starterpack_caña_fishingclient_client_stopminigame"
+    ],
+    "37": [
+      "replicatedstorage_itemnotification",
+      "replicatedstorage_itemnotification_itemnotification_notify",
+      "replicatedstorage_itemnotification_playnotificationsound"
+    ],
+    "38": [
+      "serverscriptservice_dropmanager_server",
+      "serverscriptservice_dropmanager_server_createphysicaldrop",
+      "serverscriptservice_dropmanager_server_processdrop"
+    ],
+    "39": [
+      "serverscriptservice_prefabricserver_server",
+      "serverscriptservice_prefabricserver_server_getrequiredclicks",
+      "serverscriptservice_prefabricserver_server_isvalidstructure"
+    ],
+    "40": [
+      "serverscriptservice_servermodules_musicmodule",
+      "serverscriptservice_servermodules_musicmodule_musicmodule_play",
+      "serverscriptservice_servermodules_musicmodule_musicmodule_stop"
+    ],
+    "41": [
+      "serverscriptservice_servermodules_npcspawnermodule",
+      "serverscriptservice_servermodules_npcspawnermodule_npcspawnermodule_spawngoblin",
+      "serverscriptservice_servermodules_npcspawnermodule_npcspawnermodule_spawnmahkred"
+    ],
+    "42": [
+      "serverscriptservice_servermodules_utilsmodule",
+      "serverscriptservice_servermodules_utilsmodule_utilsmodule_findplayersbyprefix",
+      "serverscriptservice_servermodules_utilsmodule_utilsmodule_isadmin"
+    ],
+    "43": [
+      "serverscriptservice_statsserver_server",
+      "serverscriptservice_statsserver_server_syncstats",
+      "serverscriptservice_statsserver_server_updatephysicalstats"
+    ],
+    "44": [
+      "startergui_customchatclient_client",
+      "startergui_customchatclient_client_setchatvisible",
+      "startergui_customchatclient_client_updatesuggestions"
+    ],
+    "45": [
+      "startergui_runningmain_init_client",
+      "startergui_runningmain_init_client_setupcharacter",
+      "startergui_runningmain_init_client_sinkspaceaction"
+    ],
+    "46": [
+      "replicatedstorage_modules_universalprompt",
+      "replicatedstorage_modules_universalprompt_universalprompt_show"
+    ],
+    "47": [
+      "serverscriptservice_servermodules_fishingmodule",
+      "serverscriptservice_servermodules_fishingmodule_fishingmodule_givefish"
+    ],
+    "48": [
+      "serverscriptservice_servermodules_vintagemodule",
+      "serverscriptservice_servermodules_vintagemodule_vintagemodule_trigger"
+    ],
+    "49": [
+      "serverstorage_lt_dungeons_localscript_client",
+      "serverstorage_lt_dungeons_localscript_client_cleanup"
+    ],
+    "50": [
+      "startergui_disablechat_client",
+      "startergui_disablechat_client_disablechat"
+    ],
+    "51": [
+      "starterpack_lt_dungeons_localscript_client",
+      "starterpack_lt_dungeons_localscript_client_cleanup"
+    ],
+    "52": [
+      "client_init_client"
+    ],
+    "53": [
+      "replicatedstorage_armorclient_client"
+    ],
+    "54": [
+      "replicatedstorage_modules_dungeonconfig"
+    ],
+    "55": [
+      "replicatedstorage_modules_relicconfig"
+    ],
+    "56": [
+      "replicatedstorage_modules_talentmodule"
+    ],
+    "57": [
+      "replicatedstorage_modules_titleconfig"
+    ],
+    "58": [
+      "replicatedstorage_musicplaylist"
+    ],
+    "59": [
+      "replicatedstorage_prefabconfig"
+    ],
+    "60": [
+      "replicatedstorage_vfxconfig"
+    ],
+    "61": [
+      "server_init_server"
+    ],
+    "62": [
+      "serverscriptservice_armormanager_server"
+    ],
+    "63": [
+      "serverscriptservice_bosshealthbarmanager_server"
+    ],
+    "64": [
+      "serverscriptservice_carrymanager_server"
+    ],
+    "65": [
+      "serverscriptservice_combatmanager_server"
+    ],
+    "66": [
+      "serverscriptservice_fishingmanager_server"
+    ],
+    "67": [
+      "serverscriptservice_gathermanager_server"
+    ],
+    "68": [
+      "serverscriptservice_loremanager_server"
+    ],
+    "69": [
+      "serverscriptservice_musiccommandsilencer_server"
+    ],
+    "70": [
+      "serverscriptservice_musicmanager_server"
+    ],
+    "71": [
+      "serverscriptservice_npcspawnermanager_server"
+    ],
+    "72": [
+      "serverscriptservice_permadeathmanager_server"
+    ],
+    "73": [
+      "serverscriptservice_ragdollmanager_server"
+    ],
+    "74": [
+      "serverscriptservice_rpcommandserver_server"
+    ],
+    "75": [
+      "serverscriptservice_survivalmanager_server"
+    ],
+    "76": [
+      "serverscriptservice_tooldebugtracker_server"
+    ],
+    "77": [
+      "serverstorage_antorcha_armorclient_client"
+    ],
+    "78": [
+      "serverstorage_brazoderechohierro_armorclient_client"
+    ],
+    "79": [
+      "serverstorage_brazoizquierdohierro_armorclient_client"
+    ],
+    "80": [
+      "serverstorage_brujula_toolequiphandler_client"
+    ],
+    "81": [
+      "serverstorage_cinturahierro_armorclient_client"
+    ],
+    "82": [
+      "serverstorage_collar_del_guerrero_relicclient_client"
+    ],
+    "83": [
+      "serverstorage_gafas_del_destino_relicclient_client"
+    ],
+    "84": [
+      "serverstorage_goblinspawner_spawnerclient_client"
+    ],
+    "85": [
+      "serverstorage_martillo_localscript_client"
+    ],
+    "86": [
+      "serverstorage_pecherahierro_armorclient_client"
+    ],
+    "87": [
+      "serverstorage_pelaje_caotico_relicclient_client"
+    ],
+    "88": [
+      "serverstorage_strongright_abilityscript_client"
+    ],
+    "89": [
+      "serverstorage_tiras_del_aventurero_relicclient_client"
+    ],
+    "90": [
+      "shared_hello"
+    ],
+    "91": [
+      "starterpack_antorcha_armorclient_client"
+    ],
+    "92": [
+      "starterpack_brazoderechohierro_armorclient_client"
+    ],
+    "93": [
+      "starterpack_brazoizquierdohierro_armorclient_client"
+    ],
+    "94": [
+      "starterpack_brujula_toolequiphandler_client"
+    ],
+    "95": [
+      "starterpack_cinturahierro_armorclient_client"
+    ],
+    "96": [
+      "starterpack_fuego_boladefuego_spellscript_client"
+    ],
+    "97": [
+      "starterpack_goblinspawner_spawnerclient_client"
+    ],
+    "98": [
+      "starterpack_hielo_lanzadehielo_spellscript_client"
+    ],
+    "99": [
+      "starterpack_mahkredspawner_spawnerclient_client"
+    ],
+    "100": [
+      "starterpack_martillo_localscript_client"
+    ],
+    "101": [
+      "starterpack_pecherahierro_armorclient_client"
+    ],
+    "102": [
+      "starterpack_strongright_abilityscript_client"
+    ],
+    "103": [
+      "starterpack_tierra_fisura_spellscript_client"
+    ],
+    "104": [
+      "workspace_goblinai_aiscript_server"
+    ],
+    "105": [
+      "workspace_riganimate_client_lua_init_client_lua_workspace_riganimate_client_lua_init_client"
+    ]
+  },
+  "cohesion": {
+    "0": 0.05813953488372093,
+    "1": 0.1553030303030303,
+    "2": 0.12615384615384614,
+    "3": 0.13538461538461538,
+    "4": 0.2,
+    "5": 0.3181818181818182,
+    "6": 0.3181818181818182,
+    "7": 0.3333333333333333,
+    "8": 0.26666666666666666,
+    "9": 0.4,
+    "10": 0.37777777777777777,
+    "11": 0.4,
+    "12": 0.4,
+    "13": 0.37777777777777777,
+    "14": 0.4,
+    "15": 0.25,
+    "16": 0.5714285714285714,
+    "17": 0.2857142857142857,
+    "18": 0.5714285714285714,
+    "19": 0.8666666666666667,
+    "20": 0.4,
+    "21": 0.6,
+    "22": 0.5333333333333333,
+    "23": 0.6666666666666666,
+    "24": 0.5333333333333333,
+    "25": 0.6666666666666666,
+    "26": 0.6,
+    "27": 0.4,
+    "28": 0.9,
+    "29": 0.7,
+    "30": 0.5,
+    "31": 0.5,
+    "32": 0.6666666666666666,
+    "33": 0.6666666666666666,
+    "34": 0.6666666666666666,
+    "35": 0.5,
+    "36": 0.6666666666666666,
+    "37": 1.0,
+    "38": 0.6666666666666666,
+    "39": 0.6666666666666666,
+    "40": 0.6666666666666666,
+    "41": 0.6666666666666666,
+    "42": 0.6666666666666666,
+    "43": 0.6666666666666666,
+    "44": 0.6666666666666666,
+    "45": 0.6666666666666666,
+    "46": 1.0,
+    "47": 1.0,
+    "48": 1.0,
+    "49": 1.0,
+    "50": 1.0,
+    "51": 1.0,
+    "52": 1.0,
+    "53": 1.0,
+    "54": 1.0,
+    "55": 1.0,
+    "56": 1.0,
+    "57": 1.0,
+    "58": 1.0,
+    "59": 1.0,
+    "60": 1.0,
+    "61": 1.0,
+    "62": 1.0,
+    "63": 1.0,
+    "64": 1.0,
+    "65": 1.0,
+    "66": 1.0,
+    "67": 1.0,
+    "68": 1.0,
+    "69": 1.0,
+    "70": 1.0,
+    "71": 1.0,
+    "72": 1.0,
+    "73": 1.0,
+    "74": 1.0,
+    "75": 1.0,
+    "76": 1.0,
+    "77": 1.0,
+    "78": 1.0,
+    "79": 1.0,
+    "80": 1.0,
+    "81": 1.0,
+    "82": 1.0,
+    "83": 1.0,
+    "84": 1.0,
+    "85": 1.0,
+    "86": 1.0,
+    "87": 1.0,
+    "88": 1.0,
+    "89": 1.0,
+    "90": 1.0,
+    "91": 1.0,
+    "92": 1.0,
+    "93": 1.0,
+    "94": 1.0,
+    "95": 1.0,
+    "96": 1.0,
+    "97": 1.0,
+    "98": 1.0,
+    "99": 1.0,
+    "100": 1.0,
+    "101": 1.0,
+    "102": 1.0,
+    "103": 1.0,
+    "104": 1.0,
+    "105": 1.0
+  },
+  "gods": [
+    {
+      "id": "serverscriptservice_servermodules_rpcommandsmodule_rpcommandsmodule_init",
+      "label": "RPCommandsModule.Init()",
+      "degree": 18
+    },
+    {
+      "id": "serverscriptservice_servermodules_combatmodule_combatmodule_createhitbox",
+      "label": "CombatModule.CreateHitbox()",
+      "degree": 16
+    },
+    {
+      "id": "serverscriptservice_magicmanager_server_handleimpact",
+      "label": "handleImpact()",
+      "degree": 11
+    },
+    {
+      "id": "serverscriptservice_servermodules_combatmodule_combatmodule_throwshield",
+      "label": "CombatModule.ThrowShield()",
+      "degree": 10
+    },
+    {
+      "id": "serverscriptservice_servermodules_loremodule_loremodule_savealldata",
+      "label": "LoreModule.SaveAllData()",
+      "degree": 9
+    },
+    {
+      "id": "serverscriptservice_servermodules_advancedinjurymodule_advancedinjurymodule_rollforinjury",
+      "label": "AdvancedInjuryModule.RollForInjury()",
+      "degree": 8
+    },
+    {
+      "id": "serverscriptservice_servermodules_combatmodule_combatmodule_playcharactersound",
+      "label": "CombatModule.PlayCharacterSound()",
+      "degree": 8
+    },
+    {
+      "id": "serverscriptservice_lifemanager_server_onplayerdied",
+      "label": "onPlayerDied()",
+      "degree": 7
+    },
+    {
+      "id": "serverscriptservice_magicmanager_server_spawnearthfissure",
+      "label": "spawnEarthFissure()",
+      "degree": 7
+    },
+    {
+      "id": "serverscriptservice_servermodules_combatmodule_combatmodule_createstrongrighthitbox",
+      "label": "CombatModule.CreateStrongRightHitbox()",
+      "degree": 7
+    }
+  ],
+  "surprises": [
+    {
+      "source": "hasCompletedLevel()",
+      "target": "MagicConfig.GetSpellAttributeName()",
+      "source_files": [
+        "ServerScriptService/MagicService.server.luau",
+        "ReplicatedStorage/Modules/MagicConfig.luau"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; peripheral node `hasCompletedLevel()` unexpectedly reaches hub `MagicConfig.GetSpellAttributeName()`"
+    },
+    {
+      "source": "LoreModule.SaveTalents()",
+      "target": "MagicConfig.GetSpellAttributeName()",
+      "source_files": [
+        "ServerScriptService/ServerModules/LoreModule.luau",
+        "ReplicatedStorage/Modules/MagicConfig.luau"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; peripheral node `LoreModule.SaveTalents()` unexpectedly reaches hub `MagicConfig.GetSpellAttributeName()`"
+    },
+    {
+      "source": "consolidateContainer()",
+      "target": "InventoryConfig.IsStackable()",
+      "source_files": [
+        "ServerScriptService/InventoryConsolidatorLoop.server.luau",
+        "ReplicatedStorage/Modules/InventoryConfig.luau"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories"
+    },
+    {
+      "source": "watchContainer()",
+      "target": "InventoryConfig.IsStackable()",
+      "source_files": [
+        "ServerScriptService/InventoryConsolidatorLoop.server.luau",
+        "ReplicatedStorage/Modules/InventoryConfig.luau"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories"
+    },
+    {
+      "source": "consolidateContainer()",
+      "target": "InventoryConfig.GetMaxStack()",
+      "source_files": [
+        "ServerScriptService/InventoryConsolidatorLoop.server.luau",
+        "ReplicatedStorage/Modules/InventoryConfig.luau"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `RPCommandsModule.Init()` connect `RPCommandsModule.Init` to `PermadeathModule.luau`, `CondicionesModule.luau`, `BossHealthbarModule.luau`?",
+      "why": "High betweenness centrality (0.042) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `LoreModule.SaveAllData()` connect `RPCommandsModule.Init` to `CombatModule.luau`, `CondicionesModule.luau`?",
+      "why": "High betweenness centrality (0.021) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `AdvancedInjuryModule.RollForInjury()` connect `CombatModule.luau` to `CondicionesModule.luau`?",
+      "why": "High betweenness centrality (0.019) - this node is a cross-community bridge."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 17 inferred relationships involving `RPCommandsModule.Init()` (e.g. with `AdvancedInjuryModule.AddInjury()` and `AnsiedadModule.Trigger()`) actually correct?",
+      "why": "`RPCommandsModule.Init()` has 17 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 3 inferred relationships involving `CombatModule.CreateHitbox()` (e.g. with `AdvancedInjuryModule.RollForInjury()` and `CondicionesModule.HasCondicion()`) actually correct?",
+      "why": "`CombatModule.CreateHitbox()` has 3 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 7 inferred relationships involving `handleImpact()` (e.g. with `MagicConfig.GetAdjustedColor()` and `AdvancedInjuryModule.RollForInjury()`) actually correct?",
+      "why": "`handleImpact()` has 7 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 5 inferred relationships involving `LoreModule.SaveAllData()` (e.g. with `handleChat()` and `handleHonorCommand()`) actually correct?",
+      "why": "`LoreModule.SaveAllData()` has 5 INFERRED edges - model-reasoned connections that need verification."
+    }
+  ]
+}

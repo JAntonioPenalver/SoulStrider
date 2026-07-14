@@ -677,6 +677,15 @@ MagicEvent.OnServerEvent:Connect(function(player, spellName, targetPos)
 		return 
 	end
 	
+	-- Mapeo de compatibilidad para nombres antiguos o con dos puntos enviados por la GUI
+	if spellName == "Fuego: Bola de Fuego" or spellName == "Fuego" then
+		spellName = "Fuego_BolaDeFuego"
+	elseif spellName == "Hielo: Lanza de Hielo" or spellName == "Hielo" then
+		spellName = "Hielo_LanzaDeHielo"
+	elseif spellName == "Tierra: Fisura" or spellName == "Tierra" then
+		spellName = "Tierra_Fisura"
+	end
+	
 	local char = player.Character
 	if not char then
 		return

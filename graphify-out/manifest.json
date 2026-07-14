@@ -1,0 +1,1702 @@
+{
+  "src/ReplicatedStorage/AdminTrackEvent.model.json": {
+    "mtime": 1784066048.0352485,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/AnsiedadEvent.model.json": {
+    "mtime": 1784066048.2152808,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/ApplyTreatmentEvent.model.json": {
+    "mtime": 1784066048.1136186,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/ArmorClient.client.luau": {
+    "mtime": 1784066048.267365,
+    "ast_hash": "5e2e5bc34855cccc8bc687eff883a77b",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/ArmorEvent.model.json": {
+    "mtime": 1784066048.1307428,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Axe/init.meta.json": {
+    "mtime": 1784066048.189105,
+    "ast_hash": "43e236617d2dbd4911c9cb5316dcaf2f",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/BlindEvent.model.json": {
+    "mtime": 1784066048.0413914,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Block.model.json": {
+    "mtime": 1784066048.1292129,
+    "ast_hash": "6b21088ebdac2afc85c066dbe628a3fc",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/BossHealthbarCommandEvent.model.json": {
+    "mtime": 1784066048.1519353,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/BossHealthbarEvent.model.json": {
+    "mtime": 1784066048.1468792,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/BreadToolTemplate/init.meta.json": {
+    "mtime": 1784066048.1768014,
+    "ast_hash": "b08ff1c705d751346c945505a6c5dbfb",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/CarneToolTemplate/init.meta.json": {
+    "mtime": 1784066048.0146031,
+    "ast_hash": "3bc1a8ee1334883a57db95f2cb1ad655",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/CarryEvent.model.json": {
+    "mtime": 1784066048.1438792,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/CombatEvent.model.json": {
+    "mtime": 1784066048.0423796,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/CondicionEvent.model.json": {
+    "mtime": 1784066048.0959382,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/CondicionRemove.model.json": {
+    "mtime": 1784066048.150949,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/CookItemEvent.model.json": {
+    "mtime": 1784065737.0822277,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/CraftItemEvent.model.json": {
+    "mtime": 1784066048.0408545,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/CreateCharacterEvent.model.json": {
+    "mtime": 1784066048.066618,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/CustomCommandBridge.model.json": {
+    "mtime": 1784066048.011621,
+    "ast_hash": "5c8a003414ddc85473bb2a75f2c921c9",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/CutsceneEvent.model.json": {
+    "mtime": 1784066048.034246,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/DisplayBubbleEvent.model.json": {
+    "mtime": 1784066048.2734075,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/DropItemEvent.model.json": {
+    "mtime": 1784066048.1926315,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/EatFoodEvent.model.json": {
+    "mtime": 1784066048.248228,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Events/BFF.model.json": {
+    "mtime": 1784066048.175802,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Events/BuildStructureEvent.model.json": {
+    "mtime": 1784066048.0646348,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Events/ChestEvent.model.json": {
+    "mtime": 1784066048.2052245,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Events/Cleave.model.json": {
+    "mtime": 1784066048.1605453,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Events/Divergent.model.json": {
+    "mtime": 1784065737.014217,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Events/EquipTitleEvent.model.json": {
+    "mtime": 1784065737.0812414,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Events/MagicEvent.model.json": {
+    "mtime": 1784065737.0795841,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Events/RelicEvent.model.json": {
+    "mtime": 1784066048.1906345,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Events/Smash.model.json": {
+    "mtime": 1784066048.2978077,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Events/SpawnDungeonEvent.model.json": {
+    "mtime": 1784065737.0476,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Events/VFXEffectEvent.model.json": {
+    "mtime": 1784066048.0034785,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Events/VFXFeedbackEvent.model.json": {
+    "mtime": 1784066048.2182815,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/FearEvent.model.json": {
+    "mtime": 1784066048.1589973,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/FishingEvent.model.json": {
+    "mtime": 1784065737.0314875,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/FriendNotifyEvent.model.json": {
+    "mtime": 1784066048.1971622,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/GatherHitEvent.model.json": {
+    "mtime": 1784066048.173802,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/HeartbeatEvent.model.json": {
+    "mtime": 1784066048.0615606,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Hit1.model.json": {
+    "mtime": 1784066048.0605595,
+    "ast_hash": "a09b38d42f729ade8305dd617213a4dd",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Hoja/init.meta.json": {
+    "mtime": 1784066048.2087543,
+    "ast_hash": "3bc1a8ee1334883a57db95f2cb1ad655",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/InjuryUpdateEvent.model.json": {
+    "mtime": 1784066048.0080051,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/ItemNotification.luau": {
+    "mtime": 1784066048.1881044,
+    "ast_hash": "cc69ad01f7170204f492496d8d17db62",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/LoreNameRequest.model.json": {
+    "mtime": 1784066048.1815653,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/LowSanityEvent.model.json": {
+    "mtime": 1784066048.1825736,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Manzana/init.meta.json": {
+    "mtime": 1784066047.995355,
+    "ast_hash": "421bc7feda0878583a14aa7d213cbea9",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Modules/AdvancedInjuries/InjuryConfig.luau": {
+    "mtime": 1784066048.0807686,
+    "ast_hash": "a4222ac5518ef3787c781e7f23805ce2",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Modules/DungeonConfig.luau": {
+    "mtime": 1784066048.2728946,
+    "ast_hash": "565108036c852c8ae332179652e87cdf",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Modules/InventoryConfig.luau": {
+    "mtime": 1784066048.2067654,
+    "ast_hash": "a645dd1aae77f46a2395ca7355d20b05",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Modules/MagicConfig.luau": {
+    "mtime": 1784068244.3505633,
+    "ast_hash": "6bef06c18b9cbd7162dbc98353825c5f",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Modules/MovementModule.luau": {
+    "mtime": 1784066047.9988878,
+    "ast_hash": "7e4a9eb5ac47f4ea7feaadca4a1b0471",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Modules/NoClipRock.luau": {
+    "mtime": 1784066048.2492268,
+    "ast_hash": "5d2a4dd11e1055833a9d7bc9a2c243e6",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Modules/NoClipRock.meta.json": {
+    "mtime": 1784066048.0847905,
+    "ast_hash": "00acd82c9f028fb70ada98b3e2e7eac6",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Modules/RecipesConfig.luau": {
+    "mtime": 1784066048.2102828,
+    "ast_hash": "5bbf4dab150214882f55937a6fce26c8",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Modules/RelicConfig.luau": {
+    "mtime": 1784066048.0090084,
+    "ast_hash": "8810fac3229ca3b24035e8f2e031d5ca",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Modules/TalentModule.luau": {
+    "mtime": 1784066048.0297215,
+    "ast_hash": "bda964d7a14c236353c9ceb5c0ea4c1d",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Modules/TitleConfig.luau": {
+    "mtime": 1784066048.073692,
+    "ast_hash": "c1413b0e96e1d304f4d84e4faa439ac8",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Modules/UIManager.luau": {
+    "mtime": 1784066048.2396476,
+    "ast_hash": "0d5066379df7bf8a853cc1066b347959",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Modules/UniversalPrompt.luau": {
+    "mtime": 1784066048.0251899,
+    "ast_hash": "ec65d03c5a26316bede1b02213433b66",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Modules/Utility.luau": {
+    "mtime": 1784066048.1718102,
+    "ast_hash": "7e346238f69bba5125d44e83fab34bf4",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/MusicEvent.model.json": {
+    "mtime": 1784066048.296807,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/MusicPlaylist.luau": {
+    "mtime": 1784066048.0196981,
+    "ast_hash": "3c753b0d83febc50a5793aaf61628e90",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/NarrateEvent.model.json": {
+    "mtime": 1784066048.2062263,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/NotifyPlayerEvent.model.json": {
+    "mtime": 1784066048.1136186,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/OpenMusicMenu.model.json": {
+    "mtime": 1784066048.066618,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/PDBroadcast.model.json": {
+    "mtime": 1784066048.2502315,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Palo/init.meta.json": {
+    "mtime": 1784066048.0367925,
+    "ast_hash": "3bc1a8ee1334883a57db95f2cb1ad655",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Pan/init.meta.json": {
+    "mtime": 1784066048.0015128,
+    "ast_hash": "421bc7feda0878583a14aa7d213cbea9",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/PensamientoEvent.model.json": {
+    "mtime": 1784066048.0146031,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Pepita de Cobre/init.meta.json": {
+    "mtime": 1784066048.2507792,
+    "ast_hash": "3bc1a8ee1334883a57db95f2cb1ad655",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Pepita de Hierro/init.meta.json": {
+    "mtime": 1784066048.2663746,
+    "ast_hash": "3bc1a8ee1334883a57db95f2cb1ad655",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Pepita de Oro/init.meta.json": {
+    "mtime": 1784066048.1589973,
+    "ast_hash": "3bc1a8ee1334883a57db95f2cb1ad655",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Piedra/init.meta.json": {
+    "mtime": 1784066048.0756736,
+    "ast_hash": "3bc1a8ee1334883a57db95f2cb1ad655",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/PlayTPAuraEvent.model.json": {
+    "mtime": 1784066048.096921,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/PrefabConfig.luau": {
+    "mtime": 1784066048.2437065,
+    "ast_hash": "d479881e0e183e856f55b1e7f0e169fb",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/PresionEvent.model.json": {
+    "mtime": 1784066048.0397766,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/ProwlerEvent.model.json": {
+    "mtime": 1784066048.1181488,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/RPCommandEvent.model.json": {
+    "mtime": 1784066048.1728024,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/RemoteEvent.model.json": {
+    "mtime": 1784066048.2810886,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/SelectTalent.model.json": {
+    "mtime": 1784065737.040524,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/ShowTalentScreen.model.json": {
+    "mtime": 1784066048.2182815,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/SpawnGoblinEvent.model.json": {
+    "mtime": 1784066048.2557616,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/SpawnMahkredEvent.model.json": {
+    "mtime": 1784065737.071473,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/SteakOnBone/init.meta.json": {
+    "mtime": 1784066048.112617,
+    "ast_hash": "421bc7feda0878583a14aa7d213cbea9",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Storage/Sounds/Crouch.model.json": {
+    "mtime": 1784066048.12975,
+    "ast_hash": "de93c9c7e8ef7402e4564915409581ac",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Storage/Sounds/GetUp.model.json": {
+    "mtime": 1784066048.1896517,
+    "ast_hash": "94a4fd2759b6e57f651dd18ee28a018e",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Storage/init.meta.json": {
+    "mtime": 1784066048.0848181,
+    "ast_hash": "f51f818f1e07c907c8ec732a4116ac67",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/TalentSelectedClient.model.json": {
+    "mtime": 1784066048.2355764,
+    "ast_hash": "5c8a003414ddc85473bb2a75f2c921c9",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/ToggleTagEvent.model.json": {
+    "mtime": 1784066048.0756736,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/TraumaEvent.model.json": {
+    "mtime": 1784066048.2978077,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/Tronco/init.meta.json": {
+    "mtime": 1784066048.2755663,
+    "ast_hash": "3bc1a8ee1334883a57db95f2cb1ad655",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/UpgradeStatEvent.model.json": {
+    "mtime": 1784066048.1004567,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/UseItemEvent.model.json": {
+    "mtime": 1784066048.1181488,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/VFXConfig.luau": {
+    "mtime": 1784066048.1657362,
+    "ast_hash": "d505e32d794476ece5780fa5cbdbf0bc",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/WeatherSoundEvent.model.json": {
+    "mtime": 1784065737.048594,
+    "ast_hash": "28a981f053b789944fc1642ad197ecd1",
+    "semantic_hash": ""
+  },
+  "src/ReplicatedStorage/WheatToolTemplate/init.meta.json": {
+    "mtime": 1784066048.1529427,
+    "ast_hash": "750a0d600cffd6a9c7065d0974d9e17a",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/AdvancedInjuryServer.server.luau": {
+    "mtime": 1784066048.2212815,
+    "ast_hash": "2839346f32115fff7fff16536ebaa1a0",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ArmorManager.server.luau": {
+    "mtime": 1784066048.1881044,
+    "ast_hash": "66a54f9a6b8b5b5b40ad3c489525612f",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/BossHealthbarManager.server.luau": {
+    "mtime": 1784066048.0100062,
+    "ast_hash": "0d7ba04711194173028365b94f2bf082",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/CarryManager.server.luau": {
+    "mtime": 1784066048.0352485,
+    "ast_hash": "640df2a8a5de97a85c17cd46d398ff7e",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ChestManager.server.luau": {
+    "mtime": 1784066048.1981573,
+    "ast_hash": "0cf2c1ba74b04818f1ad567d82e8264b",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/CombatManager.server.luau": {
+    "mtime": 1784066048.0171337,
+    "ast_hash": "bc00953c1c926326fddbca3f86acc304",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/CraftingCookingServer.server.luau": {
+    "mtime": 1784066048.1458766,
+    "ast_hash": "d871ddf7069f3decc31e3eede4372741",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/DropManager.server.luau": {
+    "mtime": 1784066048.150949,
+    "ast_hash": "3cfc200cb1fce7546b83517f76ff68bd",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/DungeonManager.server.luau": {
+    "mtime": 1784066048.0009556,
+    "ast_hash": "83ded61276c584664557e7f734433628",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/FishingManager.server.luau": {
+    "mtime": 1784066048.126683,
+    "ast_hash": "47cd53ad8ed2928e0bf1c3a14d7b15e5",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/FriendshipServer.server.luau": {
+    "mtime": 1784066048.1146142,
+    "ast_hash": "af3eb53ab387d1b85e1912ceea128f63",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/GatherManager.server.luau": {
+    "mtime": 1784066048.0979207,
+    "ast_hash": "52684a10a3d8cd655184e41864a0c0ed",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/HarvestManager.server.luau": {
+    "mtime": 1784066048.268363,
+    "ast_hash": "06120b4f8129ac758940fa4ae72b5262",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/HonorCommandHandler.server.luau": {
+    "mtime": 1784066048.0332556,
+    "ast_hash": "ddd7c40be2d1e69a100a4220bdfaacee",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/InventoryConsolidatorLoop.server.luau": {
+    "mtime": 1784066048.2870893,
+    "ast_hash": "b3c242d37fbbfd378a5270d1c1a89cdf",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/LifeManager.server.luau": {
+    "mtime": 1784066048.1580067,
+    "ast_hash": "dedf556bd5c579b2cf3ca93ced704ac8",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/LoreManager.server.luau": {
+    "mtime": 1784066048.2279813,
+    "ast_hash": "f9b478ffa5dca2fc60e3ab3118966475",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/LoreNameServer.server.luau": {
+    "mtime": 1784066048.1246874,
+    "ast_hash": "8d774b82dc080eac35af2aeccced82c4",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/MagicManager.server.luau": {
+    "mtime": 1784067872.1947553,
+    "ast_hash": "80e267d83959c0286553b9cd9bf5a7b0",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/MagicService.server.luau": {
+    "mtime": 1784066048.1831138,
+    "ast_hash": "7b97cd46354bb9be64a2251723c68eb4",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/MahkredAI.server.luau": {
+    "mtime": 1784066048.2583008,
+    "ast_hash": "a7a79877a659d974e60a4a5cfcde2353",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/MusicCommandSilencer.server.luau": {
+    "mtime": 1784066048.277552,
+    "ast_hash": "0fae79bc7e62d797edc68d716dc15efa",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/MusicManager.server.luau": {
+    "mtime": 1784066048.0367925,
+    "ast_hash": "b38da412ce81444ade1522a59782221d",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/NPCSpawnerManager.server.luau": {
+    "mtime": 1784066048.0080051,
+    "ast_hash": "226fbd23699e7ca0d1eb9201faab897a",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/PermadeathManager.server.luau": {
+    "mtime": 1784066048.261822,
+    "ast_hash": "7941309a7953e594ed7b3cc93e63bb24",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/PrefabricServer.server.luau": {
+    "mtime": 1784066048.0090084,
+    "ast_hash": "d232847de43267681777942e2be53e2f",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/RPCommandServer.server.luau": {
+    "mtime": 1784066048.1896517,
+    "ast_hash": "7b97b24c60b188fb8107e56f6b45cee5",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/RagdollManager.server.luau": {
+    "mtime": 1784066048.073692,
+    "ast_hash": "6ffd4eb4d2ff2017f834b468afd72a51",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/RelicManager.server.luau": {
+    "mtime": 1784066048.0943944,
+    "ast_hash": "981002cb6d2a3d355197256ede55c8c0",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ServerModules/AdvancedInjuryModule.luau": {
+    "mtime": 1784066048.1667325,
+    "ast_hash": "598b2fb44872beab1df231224aac409b",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ServerModules/AnsiedadModule.luau": {
+    "mtime": 1784066048.2557616,
+    "ast_hash": "a5fc84a3f4108dabbe2e3d1deb3bbf54",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ServerModules/ArmorModule.luau": {
+    "mtime": 1784066048.1024613,
+    "ast_hash": "35530782e6036db00059a126b9f75d93",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ServerModules/BossHealthbarModule.luau": {
+    "mtime": 1784066048.1637373,
+    "ast_hash": "fdd60bfd2d88fce6affb461460c0073c",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ServerModules/CarryModule.luau": {
+    "mtime": 1784066048.2958157,
+    "ast_hash": "ff0ff5c741a998c47caea8eae0576845",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ServerModules/CombatModule.luau": {
+    "mtime": 1784068610.1669552,
+    "ast_hash": "50a3ca72d8755ade91ec226ae758e7bc",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ServerModules/CommandRegistry.luau": {
+    "mtime": 1784066048.2466967,
+    "ast_hash": "ac8cfcb80fc1b14c6011b7a99ba05b07",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ServerModules/CondicionesModule.luau": {
+    "mtime": 1784066048.015604,
+    "ast_hash": "e916f09f819bbf63eb1be1f8ce98507a",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ServerModules/EnemyModule.luau": {
+    "mtime": 1784066048.2699044,
+    "ast_hash": "2913179e4acae847ed1e05502e4f4ba5",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ServerModules/FearModule.luau": {
+    "mtime": 1784066048.2790928,
+    "ast_hash": "4ec8240632325dbe27cecacfed38ea23",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ServerModules/FishingModule.luau": {
+    "mtime": 1784066048.1418736,
+    "ast_hash": "6f084c8211fcc7d481456ec475c39f77",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ServerModules/GatherModule.luau": {
+    "mtime": 1784066048.2162817,
+    "ast_hash": "f1756669dd75ed02a70773c83099afc7",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ServerModules/HarvestModule.luau": {
+    "mtime": 1784066048.1692636,
+    "ast_hash": "52e7df131e8a89fc452c37cb0fc433d8",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ServerModules/HeartbeatModule.luau": {
+    "mtime": 1784066048.214285,
+    "ast_hash": "787c2ad28e1ecd4fe70b01a45e8fa53a",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ServerModules/LoreModule.luau": {
+    "mtime": 1784066048.2252817,
+    "ast_hash": "f380285c2af40df7800484c77d353cbd",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ServerModules/MusicModule.luau": {
+    "mtime": 1784066048.1981573,
+    "ast_hash": "86e6f47f13b2bfcf92a0aeb964bcf521",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ServerModules/NPCSpawnerModule.luau": {
+    "mtime": 1784066048.2810886,
+    "ast_hash": "a1fb24f939be136af56a81187262df90",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ServerModules/PermadeathModule.luau": {
+    "mtime": 1784066048.0883446,
+    "ast_hash": "8f2943ee7f119872ebf0a19c3846c867",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ServerModules/PresionModule.luau": {
+    "mtime": 1784066048.012607,
+    "ast_hash": "e057ef54e30295c90dc0b027263a3482",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ServerModules/ProwlerModule.luau": {
+    "mtime": 1784066048.265831,
+    "ast_hash": "f7f09965580bbc796a142616c78b469b",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ServerModules/RPCommandsModule.luau": {
+    "mtime": 1784066048.0888872,
+    "ast_hash": "44a79b182165bdbcd55f9a6f3795fabb",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ServerModules/RagdollModule.luau": {
+    "mtime": 1784066048.1529427,
+    "ast_hash": "7ecb90826d484853be593a2f0da3c95a",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ServerModules/SurvivalModule.luau": {
+    "mtime": 1784066048.1610765,
+    "ast_hash": "8984569db8b0df83445c9ecc5238bff7",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ServerModules/TerremotoModule.luau": {
+    "mtime": 1784066048.2371097,
+    "ast_hash": "f05ddadb55715d5ebc013ddb1a84d76c",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ServerModules/UtilsModule.luau": {
+    "mtime": 1784066048.0570345,
+    "ast_hash": "dc3c8661f473835ab0cb940ea77274ce",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ServerModules/VintageModule.luau": {
+    "mtime": 1784066048.174803,
+    "ast_hash": "7151b9de7538ed6d317a7054a6ff6738",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ServerModules/WeatherModule.luau": {
+    "mtime": 1784066048.2122803,
+    "ast_hash": "d46344c238f5cf4601e2277633adf00a",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/StatsServer.server.luau": {
+    "mtime": 1784066048.2708943,
+    "ast_hash": "71f9cf54130957da6066c3705aef4c4c",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/SurvivalManager.server.luau": {
+    "mtime": 1784066048.264829,
+    "ast_hash": "80f98e9a64dcaa47a321af4a137d1a08",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/TalentCommandServer.server.luau": {
+    "mtime": 1784066048.0766735,
+    "ast_hash": "54b4f93f05196213e1a3f787e1c0d2c7",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/TitleManager.server.luau": {
+    "mtime": 1784066048.1196933,
+    "ast_hash": "4b20d8d6281553193bdcf137dabc2461",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/ToolDebugTracker.server.luau": {
+    "mtime": 1784066048.0898721,
+    "ast_hash": "f88ed9c4238faa8f7cf371a61f7b021d",
+    "semantic_hash": ""
+  },
+  "src/ServerScriptService/VFXManager.server.luau": {
+    "mtime": 1784066048.267365,
+    "ast_hash": "cc24bc8f1eba0d93e3359820ad990cc9",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Agua/init.meta.json": {
+    "mtime": 1784066048.1282103,
+    "ast_hash": "421bc7feda0878583a14aa7d213cbea9",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Antorcha/ArmorClient.client.luau": {
+    "mtime": 1784066048.293084,
+    "ast_hash": "5e2e5bc34855cccc8bc687eff883a77b",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Antorcha/init.meta.json": {
+    "mtime": 1784066048.0403183,
+    "ast_hash": "9ae1ffa79508c5f462e33560c3e6bf04",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/BrazoDerechoHierro/ArmorClient.client.luau": {
+    "mtime": 1784066048.2577612,
+    "ast_hash": "5e2e5bc34855cccc8bc687eff883a77b",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/BrazoDerechoHierro/init.meta.json": {
+    "mtime": 1784066048.0261858,
+    "ast_hash": "3a9a5996b80653879f33c8c6f882622e",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/BrazoIzquierdoHierro/ArmorClient.client.luau": {
+    "mtime": 1784066048.1896517,
+    "ast_hash": "5e2e5bc34855cccc8bc687eff883a77b",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/BrazoIzquierdoHierro/init.meta.json": {
+    "mtime": 1784066048.2638278,
+    "ast_hash": "4b655dd17131dfaf7cb259f1d769fcb9",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/BreadToolTemplate/init.meta.json": {
+    "mtime": 1784065736.9925213,
+    "ast_hash": "b08ff1c705d751346c945505a6c5dbfb",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Brujula/ToolEquipHandler.client.luau": {
+    "mtime": 1784066048.1871042,
+    "ast_hash": "0ac69c837a4c67f6b17cb55344046c8d",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Brujula/init.meta.json": {
+    "mtime": 1784066048.16826,
+    "ast_hash": "ebb5b299265278bde8a950d032e18043",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/CarneToolTemplate/init.meta.json": {
+    "mtime": 1784066048.2437065,
+    "ast_hash": "3bc1a8ee1334883a57db95f2cb1ad655",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Carne/init.meta.json": {
+    "mtime": 1784066048.2870893,
+    "ast_hash": "3bc1a8ee1334883a57db95f2cb1ad655",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Ca\u00f1a/FishingClient.client.luau": {
+    "mtime": 1784066048.2212815,
+    "ast_hash": "0c2048320dbba8902364441ee5a5839b",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Ca\u00f1a/init.meta.json": {
+    "mtime": 1784066048.02419,
+    "ast_hash": "1c62995e123b1b8efee8530aa3190047",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/CinturaHierro/ArmorClient.client.luau": {
+    "mtime": 1784066048.0307233,
+    "ast_hash": "5e2e5bc34855cccc8bc687eff883a77b",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/CinturaHierro/init.meta.json": {
+    "mtime": 1784066048.0287168,
+    "ast_hash": "1b2e934abd1eb62743fed53f52f6848e",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Collar Del Guerrero/RelicClient.client.luau": {
+    "mtime": 1784066048.0024786,
+    "ast_hash": "77a9a5a68828262792f982ef61ae4e91",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Collar Del Guerrero/init.meta.json": {
+    "mtime": 1784066048.3003352,
+    "ast_hash": "f3d5b9ac51993a8f9f089e827a8ab718",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Daga/ClientCombat.client.luau": {
+    "mtime": 1784066048.1494122,
+    "ast_hash": "354b640561eebc2382684db8ee07ce3e",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Daga/init.meta.json": {
+    "mtime": 1784066048.1342826,
+    "ast_hash": "ba7011185ab41e92ac100f90024603ca",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Escudo/ClientCombat.client.luau": {
+    "mtime": 1784066048.2993526,
+    "ast_hash": "c6627f2f13919da79d2be846fcadcedf",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Escudo/init.meta.json": {
+    "mtime": 1784066048.1171503,
+    "ast_hash": "695cba44c29a4ab2f58590eaef13b132",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Espada/ClientCombat.client.luau": {
+    "mtime": 1784066048.268363,
+    "ast_hash": "cafb39dea47f6850c111587805809e97",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Espada/init.meta.json": {
+    "mtime": 1784066048.1861053,
+    "ast_hash": "a879a2383a026c09c47380d2673e2924",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Fuego_BolaDeFuego/SpellScript.client.luau": {
+    "mtime": 1784066048.070145,
+    "ast_hash": "b7e2c696dc6cae438ea965ff95e215b4",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Fuego_BolaDeFuego/init.meta.json": {
+    "mtime": 1784066048.156469,
+    "ast_hash": "300597b3b5374ce67e5311c5a92282f1",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Gafas del Destino/RelicClient.client.luau": {
+    "mtime": 1784066048.2391038,
+    "ast_hash": "77a9a5a68828262792f982ef61ae4e91",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Gafas del Destino/init.meta.json": {
+    "mtime": 1784066048.234575,
+    "ast_hash": "23cf58e4c8f923d89a71f5d75623e1ba",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/GoblinSpawner/SpawnerClient.client.luau": {
+    "mtime": 1784066048.2336507,
+    "ast_hash": "32fa660eba860d44fd1d11e548bddd17",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/GoblinSpawner/init.meta.json": {
+    "mtime": 1784066048.0327194,
+    "ast_hash": "3bc1a8ee1334883a57db95f2cb1ad655",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Hacha/init.meta.json": {
+    "mtime": 1784066048.2456968,
+    "ast_hash": "43e236617d2dbd4911c9cb5316dcaf2f",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Hielo_LanzaDeHielo/SpellScript.client.luau": {
+    "mtime": 1784066048.0989237,
+    "ast_hash": "57aa0c5cee1349eabe914308c107dab9",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Hielo_LanzaDeHielo/init.meta.json": {
+    "mtime": 1784066048.0054789,
+    "ast_hash": "300597b3b5374ce67e5311c5a92282f1",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Hoja/init.meta.json": {
+    "mtime": 1784066048.2755663,
+    "ast_hash": "3bc1a8ee1334883a57db95f2cb1ad655",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/LT_Dungeons/LocalScript.client.luau": {
+    "mtime": 1784066048.2608342,
+    "ast_hash": "ead7834a5fe06c0375350634f9797347",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/LT_Dungeons/init.meta.json": {
+    "mtime": 1784066048.1708262,
+    "ast_hash": "300597b3b5374ce67e5311c5a92282f1",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/LT_Efectos/LocalScript.client.luau": {
+    "mtime": 1784066048.1171503,
+    "ast_hash": "12f31e76c57d68d636eb20762af63a68",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/LT_Efectos/init.meta.json": {
+    "mtime": 1784066048.0772123,
+    "ast_hash": "300597b3b5374ce67e5311c5a92282f1",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/LT_Fabrics/LocalScript.client.luau": {
+    "mtime": 1784066048.2212815,
+    "ast_hash": "b0aea82990974ba93558fb6a9b15b0e0",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/LT_Fabrics/init.meta.json": {
+    "mtime": 1784066048.0054789,
+    "ast_hash": "300597b3b5374ce67e5311c5a92282f1",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Libro_Avanzado/init.meta.json": {
+    "mtime": 1784066048.0888872,
+    "ast_hash": "bbac0c4b6a9ae14658d9ac610c170b56",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Libro_Divino/init.meta.json": {
+    "mtime": 1784066048.027741,
+    "ast_hash": "33b96fed44b118da95bcf1bd214b5c75",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Libro_Intermedio/init.meta.json": {
+    "mtime": 1784066048.0070133,
+    "ast_hash": "01366d50ea4736f25c916c54aa6e139b",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Libro_Principiante/init.meta.json": {
+    "mtime": 1784066048.2850926,
+    "ast_hash": "749b2e2548a1a3ac0d0596bf59c8b78f",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Libro_Sagrado/init.meta.json": {
+    "mtime": 1784066048.224284,
+    "ast_hash": "685852cdee3ffffa8327adad8cde0cf9",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Manzana/init.meta.json": {
+    "mtime": 1784066048.294714,
+    "ast_hash": "421bc7feda0878583a14aa7d213cbea9",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Martillo/LocalScript.client.luau": {
+    "mtime": 1784066048.150949,
+    "ast_hash": "0c15a3bff6d93391d555a13ae76bc7a1",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Martillo/init.meta.json": {
+    "mtime": 1784066048.2602925,
+    "ast_hash": "a5657b2f430d44246799b227eb807003",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/MoonAnimator2Saves/IDK2/init.meta.json": {
+    "mtime": 1784066048.2182815,
+    "ast_hash": "a7b547532ec4ba6df7b1c52e045a9507",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/MoonAnimator2Saves/IDK/init.meta.json": {
+    "mtime": 1784066048.111615,
+    "ast_hash": "a7b547532ec4ba6df7b1c52e045a9507",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Naranja/init.meta.json": {
+    "mtime": 1784066048.1474173,
+    "ast_hash": "421bc7feda0878583a14aa7d213cbea9",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Palo/init.meta.json": {
+    "mtime": 1784066048.2718942,
+    "ast_hash": "3bc1a8ee1334883a57db95f2cb1ad655",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Pan/init.meta.json": {
+    "mtime": 1784066048.1554716,
+    "ast_hash": "421bc7feda0878583a14aa7d213cbea9",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/PecheraHierro/ArmorClient.client.luau": {
+    "mtime": 1784066048.0387788,
+    "ast_hash": "5e2e5bc34855cccc8bc687eff883a77b",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/PecheraHierro/init.meta.json": {
+    "mtime": 1784066048.296807,
+    "ast_hash": "db6f0b11cabda416da0444ff17595c59",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Pelaje Caotico/RelicClient.client.luau": {
+    "mtime": 1784066048.2077568,
+    "ast_hash": "77a9a5a68828262792f982ef61ae4e91",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Pelaje Caotico/init.meta.json": {
+    "mtime": 1784066048.1657362,
+    "ast_hash": "7d74832d509f2315b8ea5f3de2f36179",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Pepita de Cobre/init.meta.json": {
+    "mtime": 1784066048.23205,
+    "ast_hash": "3bc1a8ee1334883a57db95f2cb1ad655",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Pepita de Hierro/init.meta.json": {
+    "mtime": 1784066048.004481,
+    "ast_hash": "3bc1a8ee1334883a57db95f2cb1ad655",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Pepita de Oro/init.meta.json": {
+    "mtime": 1784066048.0377798,
+    "ast_hash": "3bc1a8ee1334883a57db95f2cb1ad655",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Pez/init.meta.json": {
+    "mtime": 1784066048.1408775,
+    "ast_hash": "69f50cd92c9fb4cd90e64f9d304ce0eb",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Piedra/init.meta.json": {
+    "mtime": 1784066048.0595655,
+    "ast_hash": "3bc1a8ee1334883a57db95f2cb1ad655",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Pu\u00f1os/ClientCombat.client.luau": {
+    "mtime": 1784066048.2077568,
+    "ast_hash": "cce9683eeaf603556644d0fe0f406ef3",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Pu\u00f1os/init.meta.json": {
+    "mtime": 1784066048.1418736,
+    "ast_hash": "5d4a04fd6844b3e9d9aa45415ae255d8",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/SteakOnBone/init.meta.json": {
+    "mtime": 1784066048.2577612,
+    "ast_hash": "421bc7feda0878583a14aa7d213cbea9",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/StrongRight/AbilityScript.client.luau": {
+    "mtime": 1784066048.1096234,
+    "ast_hash": "c92a8ea5df3e429c818a641544298f4b",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/StrongRight/init.meta.json": {
+    "mtime": 1784066048.1039965,
+    "ast_hash": "300597b3b5374ce67e5311c5a92282f1",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Tierra_Fisura/SpellScript.client.luau": {
+    "mtime": 1784066048.284563,
+    "ast_hash": "414ed329a333715f9b543d348748beac",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Tierra_Fisura/init.meta.json": {
+    "mtime": 1784066048.2032425,
+    "ast_hash": "300597b3b5374ce67e5311c5a92282f1",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Tiras del Aventurero/RelicClient.client.luau": {
+    "mtime": 1784066048.2790928,
+    "ast_hash": "77a9a5a68828262792f982ef61ae4e91",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Tiras del Aventurero/init.meta.json": {
+    "mtime": 1784066048.1388893,
+    "ast_hash": "92e3dcd72b85a734de3a3a7294eb261a",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Tronco/init.meta.json": {
+    "mtime": 1784066048.2936292,
+    "ast_hash": "3bc1a8ee1334883a57db95f2cb1ad655",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Vino/init.meta.json": {
+    "mtime": 1784066048.065618,
+    "ast_hash": "421bc7feda0878583a14aa7d213cbea9",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/WheatToolTemplate/init.meta.json": {
+    "mtime": 1784066048.2222815,
+    "ast_hash": "750a0d600cffd6a9c7065d0974d9e17a",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Wheat/init.meta.json": {
+    "mtime": 1784066048.1156187,
+    "ast_hash": "750a0d600cffd6a9c7065d0974d9e17a",
+    "semantic_hash": ""
+  },
+  "src/StarterGui/CustomChatClient.client.luau": {
+    "mtime": 1784066048.0105493,
+    "ast_hash": "a067027c14389626ca4c0047c2e213c8",
+    "semantic_hash": ""
+  },
+  "src/StarterGui/DisableChat.client.luau": {
+    "mtime": 1784066048.090873,
+    "ast_hash": "0ef1d1229883c40b427c814b095e5b3b",
+    "semantic_hash": ""
+  },
+  "src/StarterGui/NotificationGuiClient.client.luau": {
+    "mtime": 1784066048.1708262,
+    "ast_hash": "641b81e368b81fc973cef9680d31fd15",
+    "semantic_hash": ""
+  },
+  "src/StarterGui/RunningMain/init.client.luau": {
+    "mtime": 1784066048.264829,
+    "ast_hash": "502d71cb9f90f573b6303ab5529ed030",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Agua/init.meta.json": {
+    "mtime": 1784066047.996358,
+    "ast_hash": "421bc7feda0878583a14aa7d213cbea9",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Antorcha/ArmorClient.client.luau": {
+    "mtime": 1784066048.1246874,
+    "ast_hash": "5e2e5bc34855cccc8bc687eff883a77b",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Antorcha/init.meta.json": {
+    "mtime": 1784066048.1458766,
+    "ast_hash": "9ae1ffa79508c5f462e33560c3e6bf04",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/BrazoDerechoHierro/ArmorClient.client.luau": {
+    "mtime": 1784066048.2032425,
+    "ast_hash": "5e2e5bc34855cccc8bc687eff883a77b",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/BrazoDerechoHierro/init.meta.json": {
+    "mtime": 1784066048.1997206,
+    "ast_hash": "3a9a5996b80653879f33c8c6f882622e",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/BrazoIzquierdoHierro/ArmorClient.client.luau": {
+    "mtime": 1784066048.0136025,
+    "ast_hash": "5e2e5bc34855cccc8bc687eff883a77b",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/BrazoIzquierdoHierro/init.meta.json": {
+    "mtime": 1784066048.12975,
+    "ast_hash": "4b655dd17131dfaf7cb259f1d769fcb9",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Brujula/ToolEquipHandler.client.luau": {
+    "mtime": 1784066048.175802,
+    "ast_hash": "0ac69c837a4c67f6b17cb55344046c8d",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Brujula/init.meta.json": {
+    "mtime": 1784066048.2272818,
+    "ast_hash": "ebb5b299265278bde8a950d032e18043",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Carne/init.meta.json": {
+    "mtime": 1784066048.2608342,
+    "ast_hash": "3bc1a8ee1334883a57db95f2cb1ad655",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Ca\u00f1a/FishingClient.client.luau": {
+    "mtime": 1784066048.0898721,
+    "ast_hash": "0c2048320dbba8902364441ee5a5839b",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Ca\u00f1a/init.meta.json": {
+    "mtime": 1784066048.1504126,
+    "ast_hash": "1c62995e123b1b8efee8530aa3190047",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/CinturaHierro/ArmorClient.client.luau": {
+    "mtime": 1784066048.1166205,
+    "ast_hash": "5e2e5bc34855cccc8bc687eff883a77b",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/CinturaHierro/init.meta.json": {
+    "mtime": 1784066047.9988878,
+    "ast_hash": "1b2e934abd1eb62743fed53f52f6848e",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Daga/ClientCombat.client.luau": {
+    "mtime": 1784066048.122687,
+    "ast_hash": "31a43b7232f9a1f4a329647eff0e7b38",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Daga/init.meta.json": {
+    "mtime": 1784066048.1363425,
+    "ast_hash": "b084432fd1b2c6db31a85467cf8556f8",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Escudo/ClientCombat.client.luau": {
+    "mtime": 1784066048.074674,
+    "ast_hash": "c6627f2f13919da79d2be846fcadcedf",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Escudo/init.meta.json": {
+    "mtime": 1784066048.19516,
+    "ast_hash": "695cba44c29a4ab2f58590eaef13b132",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Espada/ClientCombat.client.luau": {
+    "mtime": 1784066048.251765,
+    "ast_hash": "cafb39dea47f6850c111587805809e97",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Espada/init.meta.json": {
+    "mtime": 1784066048.0585797,
+    "ast_hash": "a879a2383a026c09c47380d2673e2924",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Fuego_BolaDeFuego/SpellScript.client.luau": {
+    "mtime": 1784067737.85678,
+    "ast_hash": "c36e92bf8eb122c9faf3564b5d726651",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Fuego_BolaDeFuego/init.meta.json": {
+    "mtime": 1784066048.156469,
+    "ast_hash": "300597b3b5374ce67e5311c5a92282f1",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/GoblinSpawner/SpawnerClient.client.luau": {
+    "mtime": 1784066048.2850926,
+    "ast_hash": "32fa660eba860d44fd1d11e548bddd17",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/GoblinSpawner/init.meta.json": {
+    "mtime": 1784066048.2492268,
+    "ast_hash": "3bc1a8ee1334883a57db95f2cb1ad655",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Hacha/init.meta.json": {
+    "mtime": 1784066048.2860887,
+    "ast_hash": "43e236617d2dbd4911c9cb5316dcaf2f",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Hielo_LanzaDeHielo/SpellScript.client.luau": {
+    "mtime": 1784067745.4614332,
+    "ast_hash": "0cb121d4c255778244d03172cebb6270",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Hielo_LanzaDeHielo/init.meta.json": {
+    "mtime": 1784066048.0054789,
+    "ast_hash": "300597b3b5374ce67e5311c5a92282f1",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LT_Dungeons/LocalScript.client.luau": {
+    "mtime": 1784066048.1871042,
+    "ast_hash": "ead7834a5fe06c0375350634f9797347",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LT_Dungeons/init.meta.json": {
+    "mtime": 1784066048.1647322,
+    "ast_hash": "300597b3b5374ce67e5311c5a92282f1",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LT_Efectos/LocalScript.client.luau": {
+    "mtime": 1784066048.1637373,
+    "ast_hash": "12f31e76c57d68d636eb20762af63a68",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LT_Efectos/init.meta.json": {
+    "mtime": 1784066048.023196,
+    "ast_hash": "300597b3b5374ce67e5311c5a92282f1",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LT_Fabrics/LocalScript.client.luau": {
+    "mtime": 1784066048.02066,
+    "ast_hash": "b0aea82990974ba93558fb6a9b15b0e0",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LT_Fabrics/init.meta.json": {
+    "mtime": 1784066048.2734268,
+    "ast_hash": "300597b3b5374ce67e5311c5a92282f1",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/FootstepSounds/Air.model.json": {
+    "mtime": 1784066048.106076,
+    "ast_hash": "fc9a369f5f74fbcd831c605a6fc49b01",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/FootstepSounds/Brick.model.json": {
+    "mtime": 1784066048.0580301,
+    "ast_hash": "36a8aa56fd66e4904b0ecedde89a3e48",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/FootstepSounds/Climb.model.json": {
+    "mtime": 1784066048.0332556,
+    "ast_hash": "ca86b8f8239d026bd7c919b6113f145b",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/FootstepSounds/Cobblestone.model.json": {
+    "mtime": 1784066048.0817344,
+    "ast_hash": "36a8aa56fd66e4904b0ecedde89a3e48",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/FootstepSounds/Concrete.model.json": {
+    "mtime": 1784065736.9990745,
+    "ast_hash": "c4e85df8d4eb223f896aee97992f3122",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/FootstepSounds/CorrodedMetal.model.json": {
+    "mtime": 1784066048.0979207,
+    "ast_hash": "de3c4dbf3c0e1f9d7df1dc8884abe1cc",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/FootstepSounds/DiamondPlate.model.json": {
+    "mtime": 1784066048.111615,
+    "ast_hash": "de3c4dbf3c0e1f9d7df1dc8884abe1cc",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/FootstepSounds/Fabric.model.json": {
+    "mtime": 1784065737.007136,
+    "ast_hash": "e1aea702cb97ad1c0d1241cd1ed55458",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/FootstepSounds/Foil.model.json": {
+    "mtime": 1784066048.0287168,
+    "ast_hash": "36a8aa56fd66e4904b0ecedde89a3e48",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/FootstepSounds/ForceField.model.json": {
+    "mtime": 1784066048.070145,
+    "ast_hash": "fc9a369f5f74fbcd831c605a6fc49b01",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/FootstepSounds/Glass.model.json": {
+    "mtime": 1784066048.0171337,
+    "ast_hash": "36a8aa56fd66e4904b0ecedde89a3e48",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/FootstepSounds/Granite.model.json": {
+    "mtime": 1784066048.2026956,
+    "ast_hash": "a2ec710777331230e8f87e187a5ebf62",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/FootstepSounds/Grass.model.json": {
+    "mtime": 1784066048.1474173,
+    "ast_hash": "dceec6334ed6b1299f939dfec00aa0ee",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/FootstepSounds/Ice.model.json": {
+    "mtime": 1784066048.2472396,
+    "ast_hash": "36a8aa56fd66e4904b0ecedde89a3e48",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/FootstepSounds/Marble.model.json": {
+    "mtime": 1784066048.0781994,
+    "ast_hash": "36a8aa56fd66e4904b0ecedde89a3e48",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/FootstepSounds/Metal.model.json": {
+    "mtime": 1784066048.1971622,
+    "ast_hash": "de3c4dbf3c0e1f9d7df1dc8884abe1cc",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/FootstepSounds/Neon.model.json": {
+    "mtime": 1784066048.161611,
+    "ast_hash": "de3c4dbf3c0e1f9d7df1dc8884abe1cc",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/FootstepSounds/Pebble.model.json": {
+    "mtime": 1784065737.027827,
+    "ast_hash": "36a8aa56fd66e4904b0ecedde89a3e48",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/FootstepSounds/Plastic.model.json": {
+    "mtime": 1784066048.1024613,
+    "ast_hash": "de3c4dbf3c0e1f9d7df1dc8884abe1cc",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/FootstepSounds/Rock.model.json": {
+    "mtime": 1784066048.004481,
+    "ast_hash": "9518e76a7bff214d59818738c3e16313",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/FootstepSounds/Sand.model.json": {
+    "mtime": 1784066048.2628248,
+    "ast_hash": "a01f18852a728d09e9b0f4c576e6aab1",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/FootstepSounds/Slate.model.json": {
+    "mtime": 1784066048.2262814,
+    "ast_hash": "a2ec710777331230e8f87e187a5ebf62",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/FootstepSounds/SmoothPlastic.model.json": {
+    "mtime": 1784066048.0015128,
+    "ast_hash": "36a8aa56fd66e4904b0ecedde89a3e48",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/FootstepSounds/Snow.model.json": {
+    "mtime": 1784066048.2765515,
+    "ast_hash": "c3a051baae059c7e607765ac54b58655",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/FootstepSounds/Stone.model.json": {
+    "mtime": 1784066048.0691445,
+    "ast_hash": "c2946dd6e0da995ab3d64f8e70d016db",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/FootstepSounds/Wood.model.json": {
+    "mtime": 1784065736.9899175,
+    "ast_hash": "9beda3b3715d38ae84e86feecb60c9d0",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/FootstepSounds/WoodPlanks.model.json": {
+    "mtime": 1784066048.2988057,
+    "ast_hash": "1b70a83313e21a84a7280643292496e9",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/FootstepSounds/init.meta.json": {
+    "mtime": 1784066048.209291,
+    "ast_hash": "3b8f1de861a8d21768a8aa9320c0d23f",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/LocalFootsteps/init.meta.json": {
+    "mtime": 1784066048.065618,
+    "ast_hash": "971868afbc374e2829002514622ff711",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/MahkredSpawner/SpawnerClient.client.luau": {
+    "mtime": 1784066048.0297215,
+    "ast_hash": "f8be3b470f07c7117ed63b8ab02e3544",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/MahkredSpawner/init.meta.json": {
+    "mtime": 1784066048.2507792,
+    "ast_hash": "3bc1a8ee1334883a57db95f2cb1ad655",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Manzana/init.meta.json": {
+    "mtime": 1784066048.1647322,
+    "ast_hash": "421bc7feda0878583a14aa7d213cbea9",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Martillo/LocalScript.client.luau": {
+    "mtime": 1784066048.1544847,
+    "ast_hash": "0c15a3bff6d93391d555a13ae76bc7a1",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Martillo/init.meta.json": {
+    "mtime": 1784066048.259295,
+    "ast_hash": "a5657b2f430d44246799b227eb807003",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Naranja/init.meta.json": {
+    "mtime": 1784066048.2472396,
+    "ast_hash": "421bc7feda0878583a14aa7d213cbea9",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Pan/init.meta.json": {
+    "mtime": 1784066048.261822,
+    "ast_hash": "421bc7feda0878583a14aa7d213cbea9",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/PecheraHierro/ArmorClient.client.luau": {
+    "mtime": 1784066048.0605595,
+    "ast_hash": "5e2e5bc34855cccc8bc687eff883a77b",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/PecheraHierro/init.meta.json": {
+    "mtime": 1784066048.2739546,
+    "ast_hash": "db6f0b11cabda416da0444ff17595c59",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Pu\u00f1os/ClientCombat.client.luau": {
+    "mtime": 1784066048.0024786,
+    "ast_hash": "7bf25e9fa5c9c42962dc096f7bf0d033",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Pu\u00f1os/init.meta.json": {
+    "mtime": 1784066048.1146142,
+    "ast_hash": "5d4a04fd6844b3e9d9aa45415ae255d8",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/StrongRight/AbilityScript.client.luau": {
+    "mtime": 1784066048.086343,
+    "ast_hash": "c92a8ea5df3e429c818a641544298f4b",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/StrongRight/init.meta.json": {
+    "mtime": 1784066048.2016976,
+    "ast_hash": "300597b3b5374ce67e5311c5a92282f1",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Tierra_Fisura/SpellScript.client.luau": {
+    "mtime": 1784067753.4183848,
+    "ast_hash": "57653d82232bf7389b3aaea474ed57ce",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Tierra_Fisura/init.meta.json": {
+    "mtime": 1784066048.2032425,
+    "ast_hash": "300597b3b5374ce67e5311c5a92282f1",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Vino/init.meta.json": {
+    "mtime": 1784066048.2745042,
+    "ast_hash": "421bc7feda0878583a14aa7d213cbea9",
+    "semantic_hash": ""
+  },
+  "src/StarterPack/Wheat/init.meta.json": {
+    "mtime": 1784066048.131742,
+    "ast_hash": "750a0d600cffd6a9c7065d0974d9e17a",
+    "semantic_hash": ""
+  },
+  "src/Workspace/GoblinAI/AIScript.server.luau": {
+    "mtime": 1784066048.144882,
+    "ast_hash": "1da7871f0c8785b6c52fc40fba3e259e",
+    "semantic_hash": ""
+  },
+  "src/Workspace/RigAnimate.client.lua/PlayEmote.model.json": {
+    "mtime": 1784066048.156469,
+    "ast_hash": "8ad2c268a867748060f88eeb4508aa07",
+    "semantic_hash": ""
+  },
+  "src/Workspace/RigAnimate.client.lua/ScaleDampeningPercent.model.json": {
+    "mtime": 1784066048.1672757,
+    "ast_hash": "d8d2aaf52e38c56d37b718ec5bbb4389",
+    "semantic_hash": ""
+  },
+  "src/Workspace/RigAnimate.client.lua/climb/init.meta.json": {
+    "mtime": 1784066048.135353,
+    "ast_hash": "a7b547532ec4ba6df7b1c52e045a9507",
+    "semantic_hash": ""
+  },
+  "src/Workspace/RigAnimate.client.lua/fall/init.meta.json": {
+    "mtime": 1784066048.0413914,
+    "ast_hash": "a7b547532ec4ba6df7b1c52e045a9507",
+    "semantic_hash": ""
+  },
+  "src/Workspace/RigAnimate.client.lua/idle/init.meta.json": {
+    "mtime": 1784066048.2192829,
+    "ast_hash": "a7b547532ec4ba6df7b1c52e045a9507",
+    "semantic_hash": ""
+  },
+  "src/Workspace/RigAnimate.client.lua/init.client.lua": {
+    "mtime": 1784066020.5385244,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "src/Workspace/RigAnimate.client.lua/init.client.luau": {
+    "mtime": 1784066048.2840192,
+    "ast_hash": "abe0b8c2ecd7f727ac071289774d1989",
+    "semantic_hash": ""
+  },
+  "src/Workspace/RigAnimate.client.lua/jump/init.meta.json": {
+    "mtime": 1784066048.027189,
+    "ast_hash": "a7b547532ec4ba6df7b1c52e045a9507",
+    "semantic_hash": ""
+  },
+  "src/Workspace/RigAnimate.client.lua/run/init.meta.json": {
+    "mtime": 1784066048.0064783,
+    "ast_hash": "a7b547532ec4ba6df7b1c52e045a9507",
+    "semantic_hash": ""
+  },
+  "src/Workspace/RigAnimate.client.lua/sit/init.meta.json": {
+    "mtime": 1784066048.1529427,
+    "ast_hash": "a7b547532ec4ba6df7b1c52e045a9507",
+    "semantic_hash": ""
+  },
+  "src/Workspace/RigAnimate.client.lua/toolnone/init.meta.json": {
+    "mtime": 1784066048.1961591,
+    "ast_hash": "a7b547532ec4ba6df7b1c52e045a9507",
+    "semantic_hash": ""
+  },
+  "src/Workspace/RigAnimate.client.lua/walk/init.meta.json": {
+    "mtime": 1784066047.995355,
+    "ast_hash": "a7b547532ec4ba6df7b1c52e045a9507",
+    "semantic_hash": ""
+  },
+  "src/client/init.client.luau": {
+    "mtime": 1784064993.7771988,
+    "ast_hash": "191895a8b92f1c43a986785c45eac8c2",
+    "semantic_hash": ""
+  },
+  "src/server/init.server.luau": {
+    "mtime": 1784064993.778202,
+    "ast_hash": "34fa2af04eb7a234bda16bd4ba2169f9",
+    "semantic_hash": ""
+  },
+  "src/shared/Hello.luau": {
+    "mtime": 1784064993.7792022,
+    "ast_hash": "83328d975731d2e1917c27a281aaa823",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Fuego_BolaDeFuego/Fuego_BolaDeFuego/SpellScript.client.luau": {
+    "mtime": 1784067737.85678,
+    "ast_hash": "c36e92bf8eb122c9faf3564b5d726651",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Fuego_BolaDeFuego/Fuego_BolaDeFuego/init.meta.json": {
+    "mtime": 1784066048.156469,
+    "ast_hash": "300597b3b5374ce67e5311c5a92282f1",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Hielo_LanzaDeHielo/Hielo_LanzaDeHielo/SpellScript.client.luau": {
+    "mtime": 1784067745.4614332,
+    "ast_hash": "0cb121d4c255778244d03172cebb6270",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Hielo_LanzaDeHielo/Hielo_LanzaDeHielo/init.meta.json": {
+    "mtime": 1784066048.0054789,
+    "ast_hash": "300597b3b5374ce67e5311c5a92282f1",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Tierra_Fisura/Tierra_Fisura/SpellScript.client.luau": {
+    "mtime": 1784067753.4183848,
+    "ast_hash": "57653d82232bf7389b3aaea474ed57ce",
+    "semantic_hash": ""
+  },
+  "src/ServerStorage/Tierra_Fisura/Tierra_Fisura/init.meta.json": {
+    "mtime": 1784066048.2032425,
+    "ast_hash": "300597b3b5374ce67e5311c5a92282f1",
+    "semantic_hash": ""
+  }
+}

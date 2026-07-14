@@ -99,12 +99,24 @@ end
 
 function CombatModule.EmitParryEffect(victimRoot, attackerRoot)
 	local vfxTemplate = nil
-	for _, child in ipairs(workspace:GetChildren()) do
-		if child.Name == "Parry" and child:IsA("BasePart") then
-			vfxTemplate = child
-			break
+	
+	-- Primero buscamos en ReplicatedStorage.Fx (donde se guarda de forma segura con Rojo)
+	local replicatedStorage = game:GetService("ReplicatedStorage")
+	local fxFolder = replicatedStorage:FindFirstChild("Fx")
+	if fxFolder then
+		vfxTemplate = fxFolder:FindFirstChild("Parry_2") or fxFolder:FindFirstChild("Parry")
+	end
+	
+	-- Si no está ahí, buscamos en el Workspace como fallback temporal
+	if not vfxTemplate then
+		for _, child in ipairs(workspace:GetChildren()) do
+			if (child.Name == "Parry_2" or child.Name == "Parry") and child:IsA("BasePart") then
+				vfxTemplate = child
+				break
+			end
 		end
 	end
+	
 	if vfxTemplate and victimRoot then
 		local mainAttach = vfxTemplate:FindFirstChild("Main")
 		if mainAttach then

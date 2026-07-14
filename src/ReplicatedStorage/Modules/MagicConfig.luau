@@ -134,16 +134,43 @@ end
 -- Helper para sanitizar nombres de hechizos en nombres de atributos legales en Roblox (sin dos puntos)
 function MagicConfig.GetSpellAttributeName(spellName)
 	-- Mapeo de compatibilidad para datos antiguos
-	if spellName == "Fuego: Bola de Fuego" then
+	if spellName == "Fuego: Bola de Fuego" or spellName == "Fuego" then
 		spellName = "Fuego_BolaDeFuego"
-	elseif spellName == "Hielo: Lanza de Hielo" then
+	elseif spellName == "Hielo: Lanza de Hielo" or spellName == "Hielo" then
 		spellName = "Hielo_LanzaDeHielo"
-	elseif spellName == "Tierra: Fisura" then
+	elseif spellName == "Tierra: Fisura" or spellName == "Tierra" then
 		spellName = "Tierra_Fisura"
 	end
 	
 	local clean = spellName:gsub(":", "_"):gsub(" ", "_")
 	return "SpellUnlocked_" .. clean
+end
+
+-- Corrector dinámico de atributos de MagicSkillsGui en el cliente
+if game:GetService("RunService"):IsClient() then
+	task.spawn(function()
+		local player = game:GetService("Players").LocalPlayer
+		local playerGui = player:WaitForChild("PlayerGui", 15)
+		if playerGui then
+			local magicSkillsGui = playerGui:WaitForChild("MagicSkillsGui", 10)
+			if magicSkillsGui then
+				local container = magicSkillsGui:WaitForChild("SkillsContainer", 10)
+				if container then
+					local mappings = {
+						["Slot_Z"] = "Fuego_BolaDeFuego",
+						["Slot_X"] = "Hielo_LanzaDeHielo",
+						["Slot_C"] = "Tierra_Fisura"
+					}
+					for slotName, correctName in pairs(mappings) do
+						local slot = container:FindFirstChild(slotName)
+						if slot then
+							slot:SetAttribute("SpellName", correctName)
+						end
+					end
+				end
+			end
+		end
+	end)
 end
 
 return MagicConfig
