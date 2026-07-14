@@ -1,0 +1,11 @@
+{
+  "properties": {
+    "ToolTip": "Aumenta tu Velocidad de movimiento en +4 studs/seg.",
+    "RequiresHandle": false
+  },
+  "attributes": {
+    "Cantidad": 1.0,
+    "Description": "Aumenta tu Velocidad de movimiento en +4 studs/seg."
+  },
+  "className": "Tool"
+}

@@ -1,0 +1,11 @@
+{
+  "properties": {
+    "ToolTip": "Aumenta tu Estamina Máxima en 35 puntos.",
+    "RequiresHandle": false
+  },
+  "attributes": {
+    "Cantidad": 1.0,
+    "Description": "Aumenta tu Estamina Máxima en 35 puntos."
+  },
+  "className": "Tool"
+}

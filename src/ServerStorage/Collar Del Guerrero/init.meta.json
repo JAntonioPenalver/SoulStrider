@@ -1,0 +1,11 @@
+{
+  "properties": {
+    "ToolTip": "Aumenta tu Vida Máxima en 50 puntos.",
+    "RequiresHandle": false
+  },
+  "attributes": {
+    "Cantidad": 1.0,
+    "Description": "Aumenta tu Vida Máxima en 50 puntos."
+  },
+  "className": "Tool"
+}

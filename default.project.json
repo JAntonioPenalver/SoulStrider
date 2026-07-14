@@ -1,0 +1,212 @@
+{
+  "name": "SoulStrider",
+  "tree": {
+    "$className": "DataModel",
+    "Lighting": {
+      "$properties": {
+        "Ambient": [
+          0.27450981736183167,
+          0.27450981736183167,
+          0.27450981736183167
+        ],
+        "Brightness": 3.0,
+        "EnvironmentDiffuseScale": 1.0,
+        "EnvironmentSpecularScale": 1.0,
+        "FogColor": [
+          0.7529412508010864,
+          0.7529412508010864,
+          0.7529412508010864
+        ],
+        "GeographicLatitude": 0.0,
+        "GlobalShadows": true,
+        "OutdoorAmbient": [
+          0.27450981736183167,
+          0.27450981736183167,
+          0.27450981736183167
+        ],
+        "Outlines": false,
+        "PrioritizeLightingQuality": true,
+        "ShadowSoftness": 0.20000000298023224,
+        "Technology": "ShadowMap",
+        "TimeOfDay": "08:00:00"
+      }
+    },
+    "ReplicatedFirst": {
+      "$path": "src/ReplicatedFirst"
+    },
+    "ReplicatedStorage": {
+      "$path": "src/ReplicatedStorage"
+    },
+    "ServerScriptService": {
+      "$path": "src/ServerScriptService"
+    },
+    "ServerStorage": {
+      "$path": "src/ServerStorage"
+    },
+    "SoundService": {
+      "$properties": {
+        "DefaultListenerLocation": "Camera",
+        "RespectFilteringEnabled": true
+      }
+    },
+    "StarterGui": {
+      "$properties": {
+        "ScreenOrientation": "Sensor"
+      },
+      "$path": "src/StarterGui"
+    },
+    "StarterPack": {
+      "$path": "src/StarterPack"
+    },
+    "StarterPlayer": {
+      "$properties": {
+        "AvatarJointUpgrade": "Enabled",
+        "CameraMaxZoomDistance": 128.0,
+        "CharacterBreakJointsOnDeath": false,
+        "CharacterUseJumpPower": false,
+        "GameSettingsAvatar": "R6"
+      },
+      "$path": "src/StarterPlayer"
+    },
+    "Workspace": {
+      "Dummy_AI": {
+        "$className": "Model",
+        "GoblinAI": {
+          "$path": "src/Workspace/GoblinAI"
+        },
+        "$properties": {
+          "ModelMeshCFrame": [
+            92.99320983886719,
+            -0.05868387222290039,
+            427.0111999511719,
+            -8.43685120344162e-6,
+            4.429475097822433e-8,
+            -1.0000027418136597,
+            8.463789527013432e-6,
+            1.0,
+            4.298108535749634e-8,
+            1.0000027418136597,
+            -8.424080078839324e-6,
+            -8.43685120344162e-6
+          ],
+          "WorldPivotData": {
+            "OptionalCFrame": {
+              "position": [
+                0.28541946,
+                2.5439162,
+                287.19226
+              ],
+              "orientation": [
+                [
+                  0.0,
+                  0.0,
+                  -1.0
+                ],
+                [
+                  0.0,
+                  1.0,
+                  0.0
+                ],
+                [
+                  1.0,
+                  0.0,
+                  0.0
+                ]
+              ]
+            }
+          }
+        }
+      },
+      "Rig_1": {
+        "$className": "Model",
+        "Animate": {
+          "$path": "src/Workspace/RigAnimate.client.lua"
+        },
+        "$properties": {
+          "ModelMeshCFrame": [
+            8.645944595336914,
+            -15.0,
+            353.5020751953125,
+            -1.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "WorldPivotData": {
+            "OptionalCFrame": {
+              "position": [
+                8.645945,
+                0.0,
+                331.00208
+              ],
+              "orientation": [
+                [
+                  1.0,
+                  0.0,
+                  0.0
+                ],
+                [
+                  0.0,
+                  1.0,
+                  0.0
+                ],
+                [
+                  0.0,
+                  0.0,
+                  1.0
+                ]
+              ]
+            }
+          }
+        },
+        "$attributes": {
+          "Rojo_Target_PrimaryPart": "25286bfd91db67500a00349c00001e11"
+        }
+      },
+      "$properties": {
+        "FilteringEnabled": true,
+        "PredictiveStreamingMode": {
+          "Enum": 0
+        },
+        "SignalBehavior": "Deferred",
+        "StreamOutBehavior": "Opportunistic",
+        "StreamingEnabled": true,
+        "StreamingIntegrityMode": "PauseOutsideLoadedArea",
+        "WorldPivotData": {
+          "OptionalCFrame": {
+            "position": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "orientation": [
+              [
+                1.0,
+                0.0,
+                0.0
+              ],
+              [
+                0.0,
+                1.0,
+                0.0
+              ],
+              [
+                0.0,
+                0.0,
+                1.0
+              ]
+            ]
+          }
+        }
+      },
+      "$attributes": {
+        "Rojo_Target_CurrentCamera": "49737f511af818b509f96ed1000003a5"
+      }
+    }
+  }
+}

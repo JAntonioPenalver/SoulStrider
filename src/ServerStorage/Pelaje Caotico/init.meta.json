@@ -1,0 +1,11 @@
+{
+  "properties": {
+    "ToolTip": "Aumenta tu Daño físico plano en 6 puntos.",
+    "RequiresHandle": false
+  },
+  "attributes": {
+    "Cantidad": 1.0,
+    "Description": "Aumenta tu Daño físico plano en 6 puntos."
+  },
+  "className": "Tool"
+}

@@ -1,0 +1,10 @@
+{
+  "className": "Sound",
+  "properties": {
+    "TimePosition": 0.05,
+    "Looped": true,
+    "AudioContent": "rbxassetid://177940963",
+    "Volume": 0.30000001192092896,
+    "PlaybackSpeed": 1.2799999713897705
+  }
+}

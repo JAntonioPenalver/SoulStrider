@@ -1,0 +1,9 @@
+{
+  "properties": {
+    "RequiresHandle": false
+  },
+  "attributes": {
+    "ArmorName": "Waist Armor"
+  },
+  "className": "Tool"
+}

@@ -1,0 +1,9 @@
+{
+  "properties": {
+    "RequiresHandle": false
+  },
+  "attributes": {
+    "ArmorName": "Left Arm Armor"
+  },
+  "className": "Tool"
+}

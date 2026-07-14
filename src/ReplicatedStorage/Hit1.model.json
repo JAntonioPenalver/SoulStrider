@@ -1,0 +1,81 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "LockedToPart": true,
+    "Speed": {
+      "NumberRange": [
+        0.01,
+        0.01
+      ]
+    },
+    "Transparency": {
+      "NumberSequence": {
+        "keypoints": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "envelope": 0.0
+          },
+          {
+            "time": 0.10598504,
+            "value": 0.0,
+            "envelope": 0.0
+          },
+          {
+            "time": 0.29551125,
+            "value": 0.0,
+            "envelope": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "envelope": 0.0
+          }
+        ]
+      }
+    },
+    "FlipbookLayout": "Grid4x4",
+    "Size": {
+      "NumberSequence": {
+        "keypoints": [
+          {
+            "time": 0.0,
+            "value": 0.43749988,
+            "envelope": 0.0
+          },
+          {
+            "time": 1.0,
+            "value": 3.3125,
+            "envelope": 0.0
+          }
+        ]
+      }
+    },
+    "LightEmission": 1.0,
+    "ZOffset": 1.0,
+    "TextureContent": "rbxassetid://16937107174",
+    "Orientation": "VelocityPerpendicular",
+    "Rate": 1.5,
+    "EmissionDirection": "Front",
+    "SpreadAngle": [
+      3.0,
+      3.0
+    ],
+    "Rotation": {
+      "NumberRange": [
+        -360.0,
+        360.0
+      ]
+    },
+    "Lifetime": {
+      "NumberRange": [
+        0.5,
+        0.5
+      ]
+    },
+    "FlipbookMode": "OneShot"
+  },
+  "attributes": {
+    "EmitCount": 1.0
+  }
+}

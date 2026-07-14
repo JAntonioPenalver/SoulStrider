@@ -1,0 +1,14 @@
+{
+  "properties": {
+    "CanBeDropped": false,
+    "RequiresHandle": false
+  },
+  "attributes": {
+    "Damage": 10.0,
+    "HeavyDamage": 25.0,
+    "HitEffect": "Golpe2",
+    "HitSound": "rbxassetid://135200034075896",
+    "Range": 4.0
+  },
+  "className": "Tool"
+}
